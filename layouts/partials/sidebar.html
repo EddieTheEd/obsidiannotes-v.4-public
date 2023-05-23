@@ -1,0 +1,41 @@
+
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<div class="sidebar" id="sidebar">
+<div class="sidebar-item">
+    <p id="sidebar-title">Ed's Obsidian Notes</p>
+</div>
+
+<nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="https://edsobsidiannotespublic.netlify.app/" id="sidebar-base-link">Home</a>
+    <span class="sidebar-nav-item">Recent Writings (ordered by most recent):</span>
+    
+    {{ $sidebarnotes := $.Site.Data.config.sidebarnotes}}
+    {{ $counter := 0 }}
+
+    {{$notes := $.Site.RegularPages.ByLastmod.Reverse }}
+
+    {{ range $note := $notes}}
+        {{ if eq .Params.layout "writing"}}
+            {{ if lt $counter $sidebarnotes}}
+                <a class="sidebar-nav-item" href="{{ $note.Permalink }}" id="sidebar-writing-link">{{ $note.Title }}</a> 
+                {{ $counter = add $counter 1 }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+
+    <span class="sidebar-nav-item">Related Links:</span>
+    <a class="sidebar-nav-item" href="https://github.com/EddieTheEd/obsidiannotes-v.4-public" id="sidebar-base-link">GitHub project</a>
+    <a class="sidebar-nav-item" href="https://edsobsidiannotespublic.netlify.app/Notice-Board/" id="sidebar-base-link">Notice Board</a>
+    <span class="sidebar-nav-item">Currently v.4!</span>
+    
+</nav>
+
+<div class="sidebar-item">
+    <p>
+    Made by Edward Huynh using Quartz, © 2023
+    </p>
+</div>
+
+</div>
+     

@@ -1,0 +1,24 @@
+name: Eddie
+enableToc: true
+openToc: true
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: true
+enableGitHubEdit: true
+enableMermaid: true
+sidebarnotes: 5
+GitHubLink: https://github.com/eddietheed/obsidiannotes-v.4-public/tree/hugo/content
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+description:
+  Ed's obsidian notes.
+page_title: Ed's Obsidian Notes
+links:
