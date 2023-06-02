@@ -1,6 +1,6 @@
 ---
 title: "Notice Board"
-css: "official"
+css: official
 ---
 
 ## 23-05-2023
