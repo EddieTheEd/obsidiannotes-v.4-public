@@ -1,5 +1,5 @@
 ---
-title: "Notice Board"
+title: "noticeboard"
 css: official
 ---
 
