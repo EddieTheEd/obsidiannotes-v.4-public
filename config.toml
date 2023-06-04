@@ -1,4 +1,4 @@
-baseURL = "https://edsobsidiannotespublic.netlify.app/"
+baseURL = "https://obsidiannotes-v-4-public.pages.dev/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
