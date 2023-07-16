@@ -3,9 +3,10 @@
 {{ $page := .Page }}
 
 {{/* Escape slashes for Latex to fix line breaks */}}
-{{$latex := findRE "(?:\\${2}([^\\$]+)\\${2})|(?:\\$([^\\$]*)\\$)" $content}}
+{{$latex := findRE `\$\$((.|\n)+?)\$\$` $content}}
 {{range $latex}}
-  {{$fixed := replaceRE "\\\\(?: +|\\n)" "\\\\ " .}}
+  {{$fixed := plainify .}}
+  {{$fixed := replaceRE "\\\\(?: +|\\n)" "\\\\ " $fixed}}
   {{$content = replace $content . $fixed}}
 {{end}}
 
@@ -116,7 +117,7 @@
 {{end}}
 
 {{/* Add jumpable anchors */}}
-{{ $content = $content | replaceRE "(<h[1-9] id=\"([^\"]+)\">)(.+)(</h[1-9]>)" `<a href="#${2}">${1}<span class="hanchor" ariaLabel="Anchor"># </span>${3}${4}</a>` }}
+{{ $content = $content | replaceRE "(<h[1-9] id=\"([^\"]+)\">)(.+)(</h[1-9]>)" `<a href="#${2}">${1}<span class="hanchor" ariaLabel="Anchor"></span>${3}${4}</a>` }}
 
 {{/* Callouts */}}
 {{if $.Site.Data.config.enableCallouts}}

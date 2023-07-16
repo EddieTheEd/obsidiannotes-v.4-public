@@ -4,38 +4,18 @@
       "/": [
         {
           "source": "/",
-          "target": "/about",
-          "text": "Ed"
+          "target": "/Random-Notes",
+          "text": "Random Notes"
         },
         {
           "source": "/",
-          "target": "/04-03-2023-The-town-analogy",
-          "text": "the town"
-        },
-        {
-          "source": "/",
-          "target": "/Study-Group-Subjects",
-          "text": "study group"
-        },
-        {
-          "source": "/",
-          "target": "/20-12-2022-Website-Philosophy",
-          "text": "website philosophy"
-        },
-        {
-          "source": "/",
-          "target": "/Notes",
-          "text": "notes"
-        },
-        {
-          "source": "/",
-          "target": "/notablog",
-          "text": "writings"
+          "target": "/Writings",
+          "text": "Writings"
         },
         {
           "source": "/",
           "target": "/Notice-Board",
-          "text": "Notice Board"
+          "text": "the notice board"
         },
         {
           "source": "/",
@@ -44,28 +24,8 @@
         },
         {
           "source": "/",
-          "target": "/17-03-2023-Tuition-Reviews",
-          "text": "Here are some satisfied customers!"
-        },
-        {
-          "source": "/",
-          "target": "/AECHE-Topic-Notes",
-          "text": "Topic Notes"
-        },
-        {
-          "source": "/",
-          "target": "/AECHE-Class-Notes",
-          "text": "Class Notes"
-        },
-        {
-          "source": "/",
-          "target": "/AECHE-Published-Notes",
-          "text": "Published Notes"
-        },
-        {
-          "source": "/",
-          "target": "/Electron-Configuration",
-          "text": "Electron Configuration"
+          "target": "/ATCHE-Notes",
+          "text": "yr 12 chem notes"
         },
         {
           "source": "/",
@@ -75,12 +35,87 @@
         {
           "source": "/",
           "target": "/Pranav-and-Co",
-          "text": "Pranav and Co"
+          "text": "My computer background"
         },
         {
           "source": "/",
-          "target": "/07-04-2023-An-random-collation-of-quotes",
-          "text": "an random collation of quotes"
+          "target": "/penguins",
+          "text": "penguins."
+        },
+        {
+          "source": "/",
+          "target": "/old-index",
+          "text": "old index page"
+        },
+        {
+          "source": "/",
+          "target": "/Yr-10-Methods-Notes",
+          "text": "Methods Notes"
+        },
+        {
+          "source": "/",
+          "target": "/10Econ-Notes",
+          "text": "10Econ Notes"
+        },
+        {
+          "source": "/",
+          "target": "/10TCS-Notes",
+          "text": "10TCS Notes"
+        },
+        {
+          "source": "/",
+          "target": "/10SCI-Notes",
+          "text": "10SCI Notes"
+        },
+        {
+          "source": "/",
+          "target": "/10ENG-Notes",
+          "text": "10ENG Notes"
+        },
+        {
+          "source": "/",
+          "target": "/10LIT-Notes",
+          "text": "10LIT Notes"
+        },
+        {
+          "source": "/",
+          "target": "/10CSL-Notes",
+          "text": "10CSL Notes"
+        },
+        {
+          "source": "/",
+          "target": "/AECHE-Notes",
+          "text": "AECHE Notes"
+        },
+        {
+          "source": "/",
+          "target": "/AECSL-Notes",
+          "text": "AECSL Notes"
+        },
+        {
+          "source": "/",
+          "target": "/AELIT-Notes",
+          "text": "AELIT Notes"
+        },
+        {
+          "source": "/",
+          "target": "/AEMET-Notes",
+          "text": "AEMET Notes"
+        },
+        {
+          "source": "/",
+          "target": "/AEPHY-Notes",
+          "text": "AEPHY Notes"
+        },
+        {
+          "source": "/",
+          "target": "/AESPE-Notes",
+          "text": "AESPE Notes"
+        },
+        {
+          "source": "/",
+          "target": "/ATCHE-Notes",
+          "text": "ATCHE Notes"
         }
       ],
       "/07-05-2023-Some-thoughts-on-the-state-of-the-town": [
@@ -434,6 +469,13 @@
           "text": "FTH"
         }
       ],
+      "/12-07-2023-Brexit-means-brexit": [
+        {
+          "source": "/12-07-2023-Brexit-means-brexit",
+          "target": "/08-05-2023-A-narrative-haha-its-a-j-and-h-reference",
+          "text": "Heres the proof"
+        }
+      ],
       "/15-03-2023-Theme-List": [
         {
           "source": "/15-03-2023-Theme-List",
@@ -481,7 +523,7 @@
       "/20-12-2022-Website-Philosophy": [
         {
           "source": "/20-12-2022-Website-Philosophy",
-          "target": "/25-02-2023-How-to-make-a-note-taking-website-WITHOUT-PAYING",
+          "target": "/25-02-2023-How-to-make-a-note-taking-website-outdated",
           "text": "how to setup a website via obsidian and github"
         }
       ],
@@ -906,6 +948,31 @@
         },
         {
           "source": "/AECSL-Notes",
+          "target": "/R-AECSL-3",
+          "text": "R-AECSL-3"
+        },
+        {
+          "source": "/AECSL-Notes",
+          "target": "/R-AECSL-4",
+          "text": "R-AECSL-4"
+        },
+        {
+          "source": "/AECSL-Notes",
+          "target": "/R-AECSL-5",
+          "text": "R-AECSL-5"
+        },
+        {
+          "source": "/AECSL-Notes",
+          "target": "/R-AECSL-6",
+          "text": "R-AECSL-6"
+        },
+        {
+          "source": "/AECSL-Notes",
+          "target": "/AECSL-Speaking-Assessment-2",
+          "text": "AECSL Speaking Assessment 2"
+        },
+        {
+          "source": "/AECSL-Notes",
           "target": "/AECSL-Anki-Vocab-List",
           "text": "AECSL Anki Vocab List"
         }
@@ -978,8 +1045,53 @@
         },
         {
           "source": "/AELIT-Notes",
+          "target": "/Literature-Exam-Pieces",
+          "text": "Literature Exam Pieces"
+        },
+        {
+          "source": "/AELIT-Notes",
+          "target": "/Lit-Panel-Discussion-Brainstorming",
+          "text": "Lit Panel Discussion Brainstorming"
+        },
+        {
+          "source": "/AELIT-Notes",
+          "target": "/Lit-Exemplars",
+          "text": "Lit Exemplars"
+        },
+        {
+          "source": "/AELIT-Notes",
+          "target": "/Thylacine",
+          "text": "Thylacine"
+        },
+        {
+          "source": "/AELIT-Notes",
+          "target": "/Letter-to-A",
+          "text": "Letter to A"
+        },
+        {
+          "source": "/AELIT-Notes",
+          "target": "/Random-Lit-Notetaking",
+          "text": "Random Lit Notetaking"
+        },
+        {
+          "source": "/AELIT-Notes",
           "target": "/R-AELIT-1",
           "text": "R-AELIT-1"
+        },
+        {
+          "source": "/AELIT-Notes",
+          "target": "/R-AELIT-2",
+          "text": "R-AELIT-2"
+        },
+        {
+          "source": "/AELIT-Notes",
+          "target": "/P-AELIT-1",
+          "text": "P-AELIT-1"
+        },
+        {
+          "source": "/AELIT-Notes",
+          "target": "/P-AELIT-2",
+          "text": "P-AELIT-2"
         }
       ],
       "/AEMET-Notes": [
@@ -1067,6 +1179,36 @@
         },
         {
           "source": "/AEPHY-Notes",
+          "target": "/R-AEPHY-13",
+          "text": "R-AEPHY-13"
+        },
+        {
+          "source": "/AEPHY-Notes",
+          "target": "/R-AEPHY-14",
+          "text": "R-AEPHY-14"
+        },
+        {
+          "source": "/AEPHY-Notes",
+          "target": "/R-AEPHY-15",
+          "text": "R-AEPHY-15"
+        },
+        {
+          "source": "/AEPHY-Notes",
+          "target": "/R-AEPHY-16",
+          "text": "R-AEPHY-16"
+        },
+        {
+          "source": "/AEPHY-Notes",
+          "target": "/R-AEPHY-17",
+          "text": "R-AEPHY-17"
+        },
+        {
+          "source": "/AEPHY-Notes",
+          "target": "/Medical-Physics-and-Dosimetry",
+          "text": "Medical Physics and Dosimetry"
+        },
+        {
+          "source": "/AEPHY-Notes",
           "target": "/Waves-Evaluation-and-Analysis-Task-AEPHY",
           "text": "Waves Evaluation and Analysis Task AEPHY"
         },
@@ -1079,6 +1221,11 @@
           "source": "/AEPHY-Notes",
           "target": "/R-AEPHY-2S",
           "text": "R-AEPHY-2(S)"
+        },
+        {
+          "source": "/AEPHY-Notes",
+          "target": "/R-AEPHY-3S",
+          "text": "R-AEPHY-3(S)"
         }
       ],
       "/AESPE-Notes": [
@@ -1186,6 +1333,21 @@
           "source": "/AESPE-Notes",
           "target": "/R-AESPE-21",
           "text": "R-AESPE-21"
+        },
+        {
+          "source": "/AESPE-Notes",
+          "target": "/R-AESPE-22",
+          "text": "R-AESPE-22"
+        },
+        {
+          "source": "/AESPE-Notes",
+          "target": "/R-AESPE-23",
+          "text": "R-AESPE-23"
+        },
+        {
+          "source": "/AESPE-Notes",
+          "target": "/R-AESPE-24",
+          "text": "R-AESPE-24"
         },
         {
           "source": "/AESPE-Notes",
@@ -1301,6 +1463,41 @@
         },
         {
           "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-21",
+          "text": "R-ATCHE-21"
+        },
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-22",
+          "text": "R-ATCHE-22"
+        },
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-23",
+          "text": "R-ATCHE-23"
+        },
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-24",
+          "text": "R-ATCHE-24"
+        },
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-25",
+          "text": "R-ATCHE-25"
+        },
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-26",
+          "text": "R-ATCHE-26"
+        },
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-27",
+          "text": "R-ATCHE-27"
+        },
+        {
+          "source": "/ATCHE-Notes",
           "target": "/R-ATCHE-1S",
           "text": "R-ATCHE-1(S)"
         },
@@ -1328,6 +1525,21 @@
           "source": "/ATCHE-Notes",
           "target": "/R-ATCHE-6S",
           "text": "R-ATCHE-6(S)"
+        },
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/Organic-Chem-Questions",
+          "text": "Organic Chem Questions"
+        },
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/Organic-Cheat-sheet",
+          "text": "Organic Cheat sheet"
+        },
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/Empirical-formula-questions",
+          "text": "Empirical formula questions"
         }
       ],
       "/Brilliant-Course-Complex-Numbers": [
@@ -1433,6 +1645,31 @@
       "/Idea-List": [
         {
           "source": "/Idea-List",
+          "target": "/4-parter",
+          "text": "4 parter"
+        },
+        {
+          "source": "/Idea-List",
+          "target": "/spider-verse-but-pranav",
+          "text": "spider verse but pranav"
+        },
+        {
+          "source": "/Idea-List",
+          "target": "/Blaze",
+          "text": "Blaze"
+        },
+        {
+          "source": "/Idea-List",
+          "target": "/02-07-2023-Quartz-for-Dummies",
+          "text": "02-07-2023 Quartz for Dummies"
+        },
+        {
+          "source": "/Idea-List",
+          "target": "/Eds-Obsidian-Notes-Ideas",
+          "text": "Ed's Obsidian Notes"
+        },
+        {
+          "source": "/Idea-List",
           "target": "/05-05-2023-Why-did-I-name-the-writings-null",
           "text": "reason here"
         }
@@ -1442,148 +1679,6 @@
           "source": "/Metallic-Bonding",
           "target": "/R-AECHE-17",
           "text": "R-AECHE-17"
-        }
-      ],
-      "/Notes": [
-        {
-          "source": "/Notes",
-          "target": "/Yr-10-Methods-Notes",
-          "text": "Methods Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/10Econ-Notes",
-          "text": "10Econ Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/10TCS-Notes",
-          "text": "10TCS Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/10SCI-Notes",
-          "text": "10SCI Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/10ENG-Notes",
-          "text": "10ENG Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/10LIT-Notes",
-          "text": "10LIT Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/10CSL-Notes",
-          "text": "10CSL Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/AECHE-Notes",
-          "text": "AECHE Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/AECSL-Notes",
-          "text": "AECSL Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/AELIT-Notes",
-          "text": "AELIT Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/AEMET-Notes",
-          "text": "AEMET Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/AEPHY-Notes",
-          "text": "AEPHY Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/AESPE-Notes",
-          "text": "AESPE Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/ATCHE-Notes",
-          "text": "ATCHE Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/Markdown-Resources",
-          "text": "Markdown Resources"
-        },
-        {
-          "source": "/Notes",
-          "target": "/Math-Working-Out",
-          "text": "Math Working Out"
-        },
-        {
-          "source": "/Notes",
-          "target": "/Math-Working-Out-2",
-          "text": "Math Working Out 2"
-        },
-        {
-          "source": "/Notes",
-          "target": "/The-most-important-symbol-in-the-universe",
-          "text": "The most important symbol in the universe"
-        },
-        {
-          "source": "/Notes",
-          "target": "/Spec-Notes",
-          "text": "Spec Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/Spec-Proofs",
-          "text": "Spec Proofs"
-        },
-        {
-          "source": "/Notes",
-          "target": "/Finding-angle-given-3-sides-without-using-cosine-rule",
-          "text": "Finding angle given 3 sides without using cosine rule"
-        },
-        {
-          "source": "/Notes",
-          "target": "/Computer-Science-Part-1",
-          "text": "Computer-Science-Part-1"
-        },
-        {
-          "source": "/Notes",
-          "target": "/Computer-Science-Part-2",
-          "text": "Computer-Science-Part-2"
-        },
-        {
-          "source": "/Notes",
-          "target": "/Bio-Body-Reponse-Notes",
-          "text": "Bio Body Reponse Notes"
-        },
-        {
-          "source": "/Notes",
-          "target": "/Fred-Test-Chem-1",
-          "text": "Fred Test Chem 1"
-        },
-        {
-          "source": "/Notes",
-          "target": "/Fred-Test-Chem-2",
-          "text": "Fred Test Chem 2"
-        },
-        {
-          "source": "/Notes",
-          "target": "/Fred-Exam-Chem-1",
-          "text": "Fred Exam Chem 1"
-        },
-        {
-          "source": "/Notes",
-          "target": "/Fred-Plan",
-          "text": "Fred Plan"
         }
       ],
       "/Notice-Board": [
@@ -1596,6 +1691,18 @@
           "source": "/Notice-Board",
           "target": "/15-03-2023-Theme-List",
           "text": "more themes"
+        }
+      ],
+      "/P-AELIT-1": [
+        {
+          "source": "/P-AELIT-1",
+          "target": "/Thylacine",
+          "text": "Thylacine"
+        },
+        {
+          "source": "/P-AELIT-1",
+          "target": "/The-Pepper-Tree",
+          "text": "The Pepper Tree"
         }
       ],
       "/Properties-of-matter": [
@@ -1652,6 +1759,85 @@
           "source": "/R-AESPE-2",
           "target": "/Number-Sets-Notes",
           "text": "Number Sets Notes"
+        }
+      ],
+      "/R-ATCHE-23": [
+        {
+          "source": "/R-ATCHE-23",
+          "target": "/R-ATCHE-22",
+          "text": "last time"
+        }
+      ],
+      "/Random-Notes": [
+        {
+          "source": "/Random-Notes",
+          "target": "/Markdown-Resources",
+          "text": "Markdown Resources"
+        },
+        {
+          "source": "/Random-Notes",
+          "target": "/Math-Working-Out",
+          "text": "Math Working Out"
+        },
+        {
+          "source": "/Random-Notes",
+          "target": "/Math-Working-Out-2",
+          "text": "Math Working Out 2"
+        },
+        {
+          "source": "/Random-Notes",
+          "target": "/The-most-important-symbol-in-the-universe",
+          "text": "The most important symbol in the universe"
+        },
+        {
+          "source": "/Random-Notes",
+          "target": "/Spec-Notes",
+          "text": "Spec Notes"
+        },
+        {
+          "source": "/Random-Notes",
+          "target": "/Spec-Proofs",
+          "text": "Spec Proofs"
+        },
+        {
+          "source": "/Random-Notes",
+          "target": "/Finding-angle-given-3-sides-without-using-cosine-rule",
+          "text": "Finding angle given 3 sides without using cosine rule"
+        },
+        {
+          "source": "/Random-Notes",
+          "target": "/Computer-Science-Part-1",
+          "text": "Computer-Science-Part-1"
+        },
+        {
+          "source": "/Random-Notes",
+          "target": "/Computer-Science-Part-2",
+          "text": "Computer-Science-Part-2"
+        },
+        {
+          "source": "/Random-Notes",
+          "target": "/Bio-Body-Reponse-Notes",
+          "text": "Bio Body Reponse Notes"
+        },
+        {
+          "source": "/Random-Notes",
+          "target": "/Fred-Test-Chem-1",
+          "text": "Fred Test Chem 1"
+        },
+        {
+          "source": "/Random-Notes",
+          "target": "/Fred-Test-Chem-2",
+          "text": "Fred Test Chem 2"
+        },
+        {
+          "source": "/Random-Notes",
+          "target": "/Fred-Exam-Chem-1",
+          "text": "Fred Exam Chem 1"
+        },
+        {
+          "source": "/Random-Notes",
+          "target": "/Fred-Plan",
+          "text": "Fred Plan"
         }
       ],
       "/Rate-of-Reaction": [
@@ -1737,6 +1923,378 @@
           "source": "/Templates-List",
           "target": "/templates/Writing",
           "text": "Writing"
+        },
+        {
+          "source": "/Templates-List",
+          "target": "/templates/pdf-link",
+          "text": "pdf link"
+        }
+      ],
+      "/Writings": [
+        {
+          "source": "/Writings",
+          "target": "/Linux-Github-Saga",
+          "text": "Linux Github Saga"
+        },
+        {
+          "source": "/Writings",
+          "target": "/Chemistry-Resources-review",
+          "text": "Chemistry Textbook review"
+        },
+        {
+          "source": "/Writings",
+          "target": "/27-11-2022-Sleep-is-not-as-important",
+          "text": "27-11-2022 Sleep is not as important"
+        },
+        {
+          "source": "/Writings",
+          "target": "/20-12-2022-Website-Philosophy",
+          "text": "20-12-2022 Website Philosophy"
+        },
+        {
+          "source": "/Writings",
+          "target": "/04-03-2023-the-town-analogy",
+          "text": "04-03-2023 the town analogy"
+        },
+        {
+          "source": "/Writings",
+          "target": "/A-bill-of-town",
+          "text": "A bill of town"
+        },
+        {
+          "source": "/Writings",
+          "target": "/31-03-2023-The-Fred-Tendency-Hypothesis-FTH",
+          "text": "31-03-2023 The Fred Tendency Hypothesis (FTH)"
+        },
+        {
+          "source": "/Writings",
+          "target": "/Idea-List",
+          "text": "Idea List"
+        },
+        {
+          "source": "/Writings",
+          "target": "/12-07-2023-Brexit-means-brexit",
+          "text": "12-07-2023 Brexit means brexit"
+        },
+        {
+          "source": "/Writings",
+          "target": "/27-11-2022-Sleep-is-not-as-important",
+          "text": "27-11-2022 Sleep is not as important"
+        },
+        {
+          "source": "/Writings",
+          "target": "/20-12-2022-Website-Philosophy",
+          "text": "20-12-2022 Website Philosophy"
+        },
+        {
+          "source": "/Writings",
+          "target": "/23-12-2022-The-Holiday-Goals",
+          "text": "23-12-2022 The Holiday Goals"
+        },
+        {
+          "source": "/Writings",
+          "target": "/11-01-2023-WHY-DOES-HECS-EXIST",
+          "text": "11-01-2023 WHY DOES HECS EXIST"
+        },
+        {
+          "source": "/Writings",
+          "target": "/05-02-2023-Fonts",
+          "text": "05-02-2023 Fonts"
+        },
+        {
+          "source": "/Writings",
+          "target": "/23-02-2023-The-v-3-saga",
+          "text": "23-02-2023 The v 3 saga"
+        },
+        {
+          "source": "/Writings",
+          "target": "/24-02-2023-An-angrily-written-response-to-spicatas-claims-about-my-css",
+          "text": "24-02-2023 An angrily written response to spicatas claims about my css"
+        },
+        {
+          "source": "/Writings",
+          "target": "/25-02-2023-How-to-make-a-note-taking-website-outdated",
+          "text": "25-02-2023 How to make a note-taking website (outdated)"
+        },
+        {
+          "source": "/Writings",
+          "target": "/28-02-2023-A-response-to-spicatas-claims-on-tutors",
+          "text": "28-02-2023 A response to spicatas claims on tutors"
+        },
+        {
+          "source": "/Writings",
+          "target": "/04-03-2023-the-town-analogy",
+          "text": "04-03-2023 the town analogy"
+        },
+        {
+          "source": "/Writings",
+          "target": "/07-03-2023-Website-Structure",
+          "text": "07-03-2023 Website Structure"
+        },
+        {
+          "source": "/Writings",
+          "target": "/10-03-2023-Tuition-Philosophy",
+          "text": "10-03-2023 Tuition Philosophy"
+        },
+        {
+          "source": "/Writings",
+          "target": "/13-03-2023-Addressing-the-Allegations",
+          "text": "13-03-2023 Addressing the Allegations"
+        },
+        {
+          "source": "/Writings",
+          "target": "/13-03-2023-Freds-Eyes",
+          "text": "13-03-2023 Fred's Eyes"
+        },
+        {
+          "source": "/Writings",
+          "target": "/14-03-2023-A-little-challenge",
+          "text": "14-03-2023 A little challenge"
+        },
+        {
+          "source": "/Writings",
+          "target": "/15-03-2023-Call-to-Action",
+          "text": "15-03-2023 Call to Action"
+        },
+        {
+          "source": "/Writings",
+          "target": "/15-03-2023-Theme-List",
+          "text": "15-03-2023 Theme List"
+        },
+        {
+          "source": "/Writings",
+          "target": "/17-03-2023-Tuition-Reviews",
+          "text": "17-03-2023 Tuition Reviews"
+        },
+        {
+          "source": "/Writings",
+          "target": "/26-03-2023-The-Town-Bank",
+          "text": "26-03-2023 The Town Bank"
+        },
+        {
+          "source": "/Writings",
+          "target": "/28-03-2023-general-advice-for-things-based-on-my-website",
+          "text": "28-03-2023 general advice for things based on my website"
+        },
+        {
+          "source": "/Writings",
+          "target": "/Templates-List",
+          "text": "Templates List"
+        },
+        {
+          "source": "/Writings",
+          "target": "/31-03-2023-The-Fred-Tendency-Hypothesis-FTH",
+          "text": "31-03-2023 The Fred Tendency Hypothesis (FTH)"
+        },
+        {
+          "source": "/Writings",
+          "target": "/31-03-2023-Holiday-Goals-v-2",
+          "text": "31-03-2023 Holiday Goals v 2"
+        },
+        {
+          "source": "/Writings",
+          "target": "/09-04-2023-A-change-in-course",
+          "text": "09-04-2023 A change in course"
+        },
+        {
+          "source": "/Writings",
+          "target": "/10-04-2023-Stasis",
+          "text": "10-04-2023 Stasis"
+        },
+        {
+          "source": "/Writings",
+          "target": "/11-04-2023-A-manifesto",
+          "text": "11-04-2023 A manifesto"
+        },
+        {
+          "source": "/Writings",
+          "target": "/14-04-2023-A-test",
+          "text": "14-04-2023 A test"
+        },
+        {
+          "source": "/Writings",
+          "target": "/16-04-2023-A-hopefully-complete-guide-on-learning-chemistry-well",
+          "text": "16-04-2023 A (hopefully) complete guide on learning chemistry well"
+        },
+        {
+          "source": "/Writings",
+          "target": "/05-05-2023-A-theory-on-a-logarithmic-relationship-between-effort-and-grades",
+          "text": "05-05-2023 A theory on a logarithmic relationship between effort and grades"
+        },
+        {
+          "source": "/Writings",
+          "target": "/05-05-2023-Why-did-I-name-the-writings-null",
+          "text": "05-05-2023 Why did I name the writings null"
+        },
+        {
+          "source": "/Writings",
+          "target": "/07-05-2023-Some-thoughts-on-the-state-of-the-town",
+          "text": "07-05-2023 Some thoughts on the state of the town"
+        },
+        {
+          "source": "/Writings",
+          "target": "/08-05-2023-A-narrative-haha-its-a-j-and-h-reference",
+          "text": "08-05-2023 A narrative (haha its a j and h reference)"
+        },
+        {
+          "source": "/Writings",
+          "target": "/12-05-2023-A-dialogue-of-epic-proportions",
+          "text": "12-05-2023 A dialogue of epic proportions"
+        },
+        {
+          "source": "/Writings",
+          "target": "/16-05-2023-My-struggle-with-fixing-the-graph",
+          "text": "16-05-2023 My struggle with fixing the graph"
+        },
+        {
+          "source": "/Writings",
+          "target": "/21-05-2023-ANGY",
+          "text": "21-05-2023 ANGY"
+        },
+        {
+          "source": "/Writings",
+          "target": "/21-05-2023-Competency-in-a-democracy",
+          "text": "21-05-2023 Competency in a democracy"
+        },
+        {
+          "source": "/Writings",
+          "target": "/24-05-2023-A1-Populi-Leges",
+          "text": "24-05-2023 A1 Populi Leges"
+        },
+        {
+          "source": "/Writings",
+          "target": "/24-05-2023-Gaming",
+          "text": "24-05-2023 Gaming"
+        },
+        {
+          "source": "/Writings",
+          "target": "/20-06-2023-My-thoughts-on-the-existence-of-Majorana-fermions",
+          "text": "20-06-2023 My thoughts on the existence of Majorana fermions"
+        },
+        {
+          "source": "/Writings",
+          "target": "/Website-Domain-Contributors",
+          "text": "Website Domain Contributors"
+        },
+        {
+          "source": "/Writings",
+          "target": "/28-06-2023-Parasites",
+          "text": "28-06-2023 Parasites"
+        },
+        {
+          "source": "/Writings",
+          "target": "/28-06-2023-Done",
+          "text": "28-06-2023 Done"
+        },
+        {
+          "source": "/Writings",
+          "target": "/01-07-2023-The-Linux-Mint-setup",
+          "text": "01-07-2023 The Linux Mint setup"
+        },
+        {
+          "source": "/Writings",
+          "target": "/02-07-2023-Quartz-for-Dummies",
+          "text": "02-07-2023 Quartz for Dummies"
+        },
+        {
+          "source": "/Writings",
+          "target": "/05-07-2023-The-Climacteric",
+          "text": "05-07-2023 The Climacteric"
+        },
+        {
+          "source": "/Writings",
+          "target": "/10-07-2023-How-to-get-a-toomwn-xyz-subdomain",
+          "text": "10-07-2023 How to get a toomwn xyz subdomain"
+        },
+        {
+          "source": "/Writings",
+          "target": "/11-07-2023-How-to-kill-a-chemist",
+          "text": "11-07-2023 How to kill a chemist"
+        },
+        {
+          "source": "/Writings",
+          "target": "/11-07-2023-The-goofy-discord-gambit",
+          "text": "11-07-2023 The goofy discord gambit"
+        },
+        {
+          "source": "/Writings",
+          "target": "/13-03-2023-WOODSIDE",
+          "text": "13-03-2023 WOODSIDE"
+        },
+        {
+          "source": "/Writings",
+          "target": "/18-03-2023-Dutch-Democracy",
+          "text": "18-03-2023 Dutch Democracy"
+        },
+        {
+          "source": "/Writings",
+          "target": "/23-03-2023-In-response-to-a-certain-spicata-quote",
+          "text": "23-03-2023 In response to a certain spicata quote"
+        },
+        {
+          "source": "/Writings",
+          "target": "/23-03-2023-In-response-to-the-other-spicata-quotes",
+          "text": "23-03-2023 In response to the other spicata quotes"
+        },
+        {
+          "source": "/Writings",
+          "target": "/23-03-2023-In-response-to-allegations-from-chris-chen-choe",
+          "text": "23-03-2023 In response to allegations from chris chen choe"
+        },
+        {
+          "source": "/Writings",
+          "target": "/02-02-2023-Some-thoughts-on-working-better",
+          "text": "02-02-2023 Some thoughts on working better"
+        },
+        {
+          "source": "/Writings",
+          "target": "/18-02-2023-The-Legend-of-0-point-38mm",
+          "text": "18-02-2023 The Legend of 0 point 38mm"
+        },
+        {
+          "source": "/Writings",
+          "target": "/23-02-2023-The-Chemical-Blacklist",
+          "text": "23-02-2023 The Chemical Blacklist"
+        },
+        {
+          "source": "/Writings",
+          "target": "/27-04-2023-The-Obby-experience",
+          "text": "27-04-2023 The Obby experience"
+        },
+        {
+          "source": "/Writings",
+          "target": "/Set-List",
+          "text": "Set List"
+        },
+        {
+          "source": "/Writings",
+          "target": "/03-03-2023-A-letter-to-myself",
+          "text": "03-03-2023 A letter to myself"
+        },
+        {
+          "source": "/Writings",
+          "target": "/Piano-Pieces",
+          "text": "Piano Pieces"
+        },
+        {
+          "source": "/Writings",
+          "target": "/Idea-List",
+          "text": "Idea List"
+        },
+        {
+          "source": "/Writings",
+          "target": "/26-05-2023-Emails-I-own",
+          "text": "26-05-2023 Emails I own"
+        },
+        {
+          "source": "/Writings",
+          "target": "/30-06-2023-Feedback-Page",
+          "text": "30-06-2023 Feedback Page"
+        },
+        {
+          "source": "/Writings",
+          "target": "/shan-meis-essay",
+          "text": "shan mei's essay"
         }
       ],
       "/Yr-10-Methods-Notes": [
@@ -1792,256 +2350,91 @@
           "text": "this"
         }
       ],
-      "/notablog": [
+      "/old-index": [
         {
-          "source": "/notablog",
-          "target": "/Linux-Github-Saga",
-          "text": "Linux Github Saga"
+          "source": "/old-index",
+          "target": "/about",
+          "text": "Ed"
         },
         {
-          "source": "/notablog",
-          "target": "/Chemistry-Resources-review",
-          "text": "Chemistry Textbook review"
+          "source": "/old-index",
+          "target": "/04-03-2023-the-town-analogy",
+          "text": "the town"
         },
         {
-          "source": "/notablog",
-          "target": "/27-11-2022-Sleep-is-not-as-important",
-          "text": "27-11-2022 Sleep is not as important"
+          "source": "/old-index",
+          "target": "/Study-Group-Subjects",
+          "text": "study group"
         },
         {
-          "source": "/notablog",
+          "source": "/old-index",
           "target": "/20-12-2022-Website-Philosophy",
-          "text": "20-12-2022 Website Philosophy"
+          "text": "website philosophy"
         },
         {
-          "source": "/notablog",
-          "target": "/23-12-2022-The-Holiday-Goals",
-          "text": "23-12-2022 The Holiday Goals"
+          "source": "/old-index",
+          "target": "/Random-Notes",
+          "text": "notes"
         },
         {
-          "source": "/notablog",
-          "target": "/11-01-2023-WHY-DOES-HECS-EXIST",
-          "text": "11-01-2023 WHY DOES HECS EXIST"
+          "source": "/old-index",
+          "target": "/Writings",
+          "text": "Writings"
         },
         {
-          "source": "/notablog",
-          "target": "/05-02-2023-Fonts",
-          "text": "05-02-2023 Fonts"
+          "source": "/old-index",
+          "target": "/Notice-Board",
+          "text": "Notice Board"
         },
         {
-          "source": "/notablog",
-          "target": "/23-02-2023-The-v-3-saga",
-          "text": "23-02-2023 The v 3 saga"
+          "source": "/old-index",
+          "target": "/Development-Status",
+          "text": "development status"
         },
         {
-          "source": "/notablog",
-          "target": "/24-02-2023-An-angrily-written-response-to-spicatas-claims-about-my-css",
-          "text": "24-02-2023 An angrily written response to spicatas claims about my css"
-        },
-        {
-          "source": "/notablog",
-          "target": "/25-02-2023-How-to-make-a-note-taking-website-WITHOUT-PAYING",
-          "text": "25-02-2023 How to make a note-taking website WITHOUT PAYING"
-        },
-        {
-          "source": "/notablog",
-          "target": "/28-02-2023-A-response-to-spicatas-claims-on-tutors",
-          "text": "28-02-2023 A response to spicatas claims on tutors"
-        },
-        {
-          "source": "/notablog",
-          "target": "/04-03-2023-The-town-analogy",
-          "text": "04-03-2023 The town analogy"
-        },
-        {
-          "source": "/notablog",
-          "target": "/07-03-2023-Website-Structure",
-          "text": "07-03-2023 Website Structure"
-        },
-        {
-          "source": "/notablog",
-          "target": "/10-03-2023-Tuition-Philosophy",
-          "text": "10-03-2023 Tuition Philosophy"
-        },
-        {
-          "source": "/notablog",
-          "target": "/13-03-2023-Addressing-the-Allegations",
-          "text": "13-03-2023 Addressing the Allegations"
-        },
-        {
-          "source": "/notablog",
-          "target": "/13-03-2023-Freds-Eyes",
-          "text": "13-03-2023 Fred's Eyes"
-        },
-        {
-          "source": "/notablog",
-          "target": "/14-03-2023-A-little-challenge",
-          "text": "14-03-2023 A little challenge"
-        },
-        {
-          "source": "/notablog",
-          "target": "/15-03-2023-Call-to-Action",
-          "text": "15-03-2023 Call to Action"
-        },
-        {
-          "source": "/notablog",
-          "target": "/15-03-2023-Theme-List",
-          "text": "15-03-2023 Theme List"
-        },
-        {
-          "source": "/notablog",
+          "source": "/old-index",
           "target": "/17-03-2023-Tuition-Reviews",
-          "text": "17-03-2023 Tuition Reviews"
+          "text": "Here are some satisfied customers!"
         },
         {
-          "source": "/notablog",
-          "target": "/26-03-2023-The-Town-Bank",
-          "text": "26-03-2023 The Town Bank"
+          "source": "/old-index",
+          "target": "/AECHE-Topic-Notes",
+          "text": "Topic Notes"
         },
         {
-          "source": "/notablog",
-          "target": "/28-03-2023-general-advice-for-things-based-on-my-website",
-          "text": "28-03-2023 general advice for things based on my website"
+          "source": "/old-index",
+          "target": "/AECHE-Class-Notes",
+          "text": "Class Notes"
         },
         {
-          "source": "/notablog",
-          "target": "/Templates-List",
-          "text": "Templates List"
+          "source": "/old-index",
+          "target": "/AECHE-Published-Notes",
+          "text": "Published Notes"
         },
         {
-          "source": "/notablog",
-          "target": "/31-03-2023-The-Fred-Tendency-Hypothesis-FTH",
-          "text": "31-03-2023 The Fred Tendency Hypothesis (FTH)"
+          "source": "/old-index",
+          "target": "/Electron-Configuration",
+          "text": "Electron Configuration"
         },
         {
-          "source": "/notablog",
-          "target": "/31-03-2023-Holiday-Goals-v-2",
-          "text": "31-03-2023 Holiday Goals v 2"
+          "source": "/old-index",
+          "target": "/R-AECHE-32",
+          "text": "R-AECHE-32"
         },
         {
-          "source": "/notablog",
-          "target": "/09-04-2023-A-change-in-course",
-          "text": "09-04-2023 A change in course"
+          "source": "/old-index",
+          "target": "/Pranav-and-Co",
+          "text": "Pranav and Co"
         },
         {
-          "source": "/notablog",
-          "target": "/10-04-2023-Stasis",
-          "text": "10-04-2023 Stasis"
+          "source": "/old-index",
+          "target": "/07-04-2023-An-random-collation-of-quotes",
+          "text": "an random collation of quotes"
         },
         {
-          "source": "/notablog",
-          "target": "/11-04-2023-A-manifesto",
-          "text": "11-04-2023 A manifesto"
-        },
-        {
-          "source": "/notablog",
-          "target": "/14-04-2023-A-test",
-          "text": "14-04-2023 A test"
-        },
-        {
-          "source": "/notablog",
-          "target": "/16-04-2023-A-hopefully-complete-guide-on-learning-chemistry-well",
-          "text": "16-04-2023 A (hopefully) complete guide on learning chemistry well"
-        },
-        {
-          "source": "/notablog",
-          "target": "/05-05-2023-A-theory-on-a-logarithmic-relationship-between-effort-and-grades",
-          "text": "05-05-2023 A theory on a logarithmic relationship between effort and grades"
-        },
-        {
-          "source": "/notablog",
-          "target": "/05-05-2023-Why-did-I-name-the-writings-null",
-          "text": "05-05-2023 Why did I name the writings null"
-        },
-        {
-          "source": "/notablog",
-          "target": "/07-05-2023-Some-thoughts-on-the-state-of-the-town",
-          "text": "07-05-2023 Some thoughts on the state of the town"
-        },
-        {
-          "source": "/notablog",
-          "target": "/08-05-2023-A-narrative-haha-its-a-j-and-h-reference",
-          "text": "08-05-2023 A narrative (haha its a j and h reference)"
-        },
-        {
-          "source": "/notablog",
-          "target": "/12-05-2023-A-dialogue-of-epic-proportions",
-          "text": "12-05-2023 A dialogue of epic proportions"
-        },
-        {
-          "source": "/notablog",
-          "target": "/16-05-2023-My-struggle-with-fixing-the-graph",
-          "text": "16-05-2023 My struggle with fixing the graph"
-        },
-        {
-          "source": "/notablog",
-          "target": "/21-05-2023-Competency-in-a-democracy",
-          "text": "21-05-2023 Competency in a democracy"
-        },
-        {
-          "source": "/notablog",
-          "target": "/13-03-2023-WOODSIDE",
-          "text": "13-03-2023 WOODSIDE"
-        },
-        {
-          "source": "/notablog",
-          "target": "/18-03-2023-Dutch-Democracy",
-          "text": "18-03-2023 Dutch Democracy"
-        },
-        {
-          "source": "/notablog",
-          "target": "/23-03-2023-In-response-to-a-certain-spicata-quote",
-          "text": "23-03-2023 In response to a certain spicata quote"
-        },
-        {
-          "source": "/notablog",
-          "target": "/23-03-2023-In-response-to-the-other-spicata-quotes",
-          "text": "23-03-2023 In response to the other spicata quotes"
-        },
-        {
-          "source": "/notablog",
-          "target": "/23-03-2023-In-response-to-allegations-from-chris-chen-choe",
-          "text": "23-03-2023 In response to allegations from chris chen choe"
-        },
-        {
-          "source": "/notablog",
-          "target": "/02-02-2023-Some-thoughts-on-working-better",
-          "text": "02-02-2023 Some thoughts on working better"
-        },
-        {
-          "source": "/notablog",
-          "target": "/18-02-2023-The-Legend-of-0-point-38mm",
-          "text": "18-02-2023 The Legend of 0 point 38mm"
-        },
-        {
-          "source": "/notablog",
-          "target": "/23-02-2023-The-Chemical-Blacklist",
-          "text": "23-02-2023 The Chemical Blacklist"
-        },
-        {
-          "source": "/notablog",
-          "target": "/27-04-2023-The-Obby-experience",
-          "text": "27-04-2023 The Obby experience"
-        },
-        {
-          "source": "/notablog",
-          "target": "/Set-List",
-          "text": "Set List"
-        },
-        {
-          "source": "/notablog",
-          "target": "/03-03-2023-A-letter-to-myself",
-          "text": "03-03-2023 A letter to myself"
-        },
-        {
-          "source": "/notablog",
-          "target": "/Piano-Pieces",
-          "text": "Piano Pieces"
-        },
-        {
-          "source": "/notablog",
-          "target": "/Idea-List",
-          "text": "Idea List"
+          "source": "/old-index",
+          "target": "/penguins",
+          "text": "penguins."
         }
       ],
       "/theme-test-page": [
@@ -2053,42 +2446,66 @@
       ]
     },
     "backlinks": {
+      "/01-07-2023-The-Linux-Mint-setup": [
+        {
+          "source": "/Writings",
+          "target": "/01-07-2023-The-Linux-Mint-setup",
+          "text": "01-07-2023 The Linux Mint setup"
+        }
+      ],
       "/02-02-2023-Some-thoughts-on-working-better": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/02-02-2023-Some-thoughts-on-working-better",
           "text": "02-02-2023 Some thoughts on working better"
         }
       ],
+      "/02-07-2023-Quartz-for-Dummies": [
+        {
+          "source": "/Idea-List",
+          "target": "/02-07-2023-Quartz-for-Dummies",
+          "text": "02-07-2023 Quartz for Dummies"
+        },
+        {
+          "source": "/Writings",
+          "target": "/02-07-2023-Quartz-for-Dummies",
+          "text": "02-07-2023 Quartz for Dummies"
+        }
+      ],
       "/03-03-2023-A-letter-to-myself": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/03-03-2023-A-letter-to-myself",
           "text": "03-03-2023 A letter to myself"
         }
       ],
-      "/04-03-2023-The-town-analogy": [
+      "/04-03-2023-the-town-analogy": [
         {
-          "source": "/",
-          "target": "/04-03-2023-The-town-analogy",
-          "text": "the town"
+          "source": "/Writings",
+          "target": "/04-03-2023-the-town-analogy",
+          "text": "04-03-2023 the town analogy"
         },
         {
-          "source": "/notablog",
-          "target": "/04-03-2023-The-town-analogy",
-          "text": "04-03-2023 The town analogy"
+          "source": "/Writings",
+          "target": "/04-03-2023-the-town-analogy",
+          "text": "04-03-2023 the town analogy"
+        },
+        {
+          "source": "/old-index",
+          "target": "/04-03-2023-the-town-analogy",
+          "text": "the town"
         }
       ],
       "/05-02-2023-Fonts": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/05-02-2023-Fonts",
           "text": "05-02-2023 Fonts"
         }
       ],
       "/05-05-2023-A-theory-on-a-logarithmic-relationship-between-effort-and-grades": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/05-05-2023-A-theory-on-a-logarithmic-relationship-between-effort-and-grades",
           "text": "05-05-2023 A theory on a logarithmic relationship between effort and grades"
         }
@@ -2100,35 +2517,47 @@
           "text": "reason here"
         },
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/05-05-2023-Why-did-I-name-the-writings-null",
           "text": "05-05-2023 Why did I name the writings null"
         }
       ],
+      "/05-07-2023-The-Climacteric": [
+        {
+          "source": "/Writings",
+          "target": "/05-07-2023-The-Climacteric",
+          "text": "05-07-2023 The Climacteric"
+        }
+      ],
       "/07-03-2023-Website-Structure": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/07-03-2023-Website-Structure",
           "text": "07-03-2023 Website Structure"
         }
       ],
       "/07-04-2023-An-random-collation-of-quotes": [
         {
-          "source": "/",
+          "source": "/old-index",
           "target": "/07-04-2023-An-random-collation-of-quotes",
           "text": "an random collation of quotes"
         }
       ],
       "/07-05-2023-Some-thoughts-on-the-state-of-the-town": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/07-05-2023-Some-thoughts-on-the-state-of-the-town",
           "text": "07-05-2023 Some thoughts on the state of the town"
         }
       ],
       "/08-05-2023-A-narrative-haha-its-a-j-and-h-reference": [
         {
-          "source": "/notablog",
+          "source": "/12-07-2023-Brexit-means-brexit",
+          "target": "/08-05-2023-A-narrative-haha-its-a-j-and-h-reference",
+          "text": "Heres the proof"
+        },
+        {
+          "source": "/Writings",
           "target": "/08-05-2023-A-narrative-haha-its-a-j-and-h-reference",
           "text": "08-05-2023 A narrative (haha its a j and h reference)"
         }
@@ -2140,28 +2569,35 @@
           "text": "me leaving again"
         },
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/09-04-2023-A-change-in-course",
           "text": "09-04-2023 A change in course"
         }
       ],
       "/10-03-2023-Tuition-Philosophy": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/10-03-2023-Tuition-Philosophy",
           "text": "10-03-2023 Tuition Philosophy"
         }
       ],
       "/10-04-2023-Stasis": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/10-04-2023-Stasis",
           "text": "10-04-2023 Stasis"
         }
       ],
+      "/10-07-2023-How-to-get-a-toomwn-xyz-subdomain": [
+        {
+          "source": "/Writings",
+          "target": "/10-07-2023-How-to-get-a-toomwn-xyz-subdomain",
+          "text": "10-07-2023 How to get a toomwn xyz subdomain"
+        }
+      ],
       "/10CSL-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
           "target": "/10CSL-Notes",
           "text": "10CSL Notes"
         }
@@ -2231,7 +2667,7 @@
       ],
       "/10ENG-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
           "target": "/10ENG-Notes",
           "text": "10ENG Notes"
         }
@@ -2364,84 +2800,105 @@
       ],
       "/10Econ-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
           "target": "/10Econ-Notes",
           "text": "10Econ Notes"
         }
       ],
       "/10LIT-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
           "target": "/10LIT-Notes",
           "text": "10LIT Notes"
         }
       ],
       "/10SCI-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
           "target": "/10SCI-Notes",
           "text": "10SCI Notes"
         }
       ],
       "/10TCS-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
           "target": "/10TCS-Notes",
           "text": "10TCS Notes"
         }
       ],
       "/11-01-2023-WHY-DOES-HECS-EXIST": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/11-01-2023-WHY-DOES-HECS-EXIST",
           "text": "11-01-2023 WHY DOES HECS EXIST"
         }
       ],
       "/11-04-2023-A-manifesto": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/11-04-2023-A-manifesto",
           "text": "11-04-2023 A manifesto"
         }
       ],
+      "/11-07-2023-How-to-kill-a-chemist": [
+        {
+          "source": "/Writings",
+          "target": "/11-07-2023-How-to-kill-a-chemist",
+          "text": "11-07-2023 How to kill a chemist"
+        }
+      ],
+      "/11-07-2023-The-goofy-discord-gambit": [
+        {
+          "source": "/Writings",
+          "target": "/11-07-2023-The-goofy-discord-gambit",
+          "text": "11-07-2023 The goofy discord gambit"
+        }
+      ],
       "/12-05-2023-A-dialogue-of-epic-proportions": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/12-05-2023-A-dialogue-of-epic-proportions",
           "text": "12-05-2023 A dialogue of epic proportions"
         }
       ],
+      "/12-07-2023-Brexit-means-brexit": [
+        {
+          "source": "/Writings",
+          "target": "/12-07-2023-Brexit-means-brexit",
+          "text": "12-07-2023 Brexit means brexit"
+        }
+      ],
       "/13-03-2023-Addressing-the-Allegations": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/13-03-2023-Addressing-the-Allegations",
           "text": "13-03-2023 Addressing the Allegations"
         }
       ],
       "/13-03-2023-Freds-Eyes": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/13-03-2023-Freds-Eyes",
           "text": "13-03-2023 Fred's Eyes"
         }
       ],
       "/13-03-2023-WOODSIDE": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/13-03-2023-WOODSIDE",
           "text": "13-03-2023 WOODSIDE"
         }
       ],
       "/14-03-2023-A-little-challenge": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/14-03-2023-A-little-challenge",
           "text": "14-03-2023 A little challenge"
         }
       ],
       "/14-04-2023-A-test": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/14-04-2023-A-test",
           "text": "14-04-2023 A test"
         }
@@ -2453,7 +2910,7 @@
           "text": "here"
         },
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/15-03-2023-Call-to-Action",
           "text": "15-03-2023 Call to Action"
         }
@@ -2465,7 +2922,7 @@
           "text": "more themes"
         },
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/15-03-2023-Theme-List",
           "text": "15-03-2023 Theme List"
         },
@@ -2477,33 +2934,33 @@
       ],
       "/16-04-2023-A-hopefully-complete-guide-on-learning-chemistry-well": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/16-04-2023-A-hopefully-complete-guide-on-learning-chemistry-well",
           "text": "16-04-2023 A (hopefully) complete guide on learning chemistry well"
         }
       ],
       "/16-05-2023-My-struggle-with-fixing-the-graph": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/16-05-2023-My-struggle-with-fixing-the-graph",
           "text": "16-05-2023 My struggle with fixing the graph"
         }
       ],
       "/17-03-2023-Tuition-Reviews": [
         {
-          "source": "/",
-          "target": "/17-03-2023-Tuition-Reviews",
-          "text": "Here are some satisfied customers!"
-        },
-        {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/17-03-2023-Tuition-Reviews",
           "text": "17-03-2023 Tuition Reviews"
+        },
+        {
+          "source": "/old-index",
+          "target": "/17-03-2023-Tuition-Reviews",
+          "text": "Here are some satisfied customers!"
         }
       ],
       "/18-02-2023-The-Legend-of-0-point-38mm": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/18-02-2023-The-Legend-of-0-point-38mm",
           "text": "18-02-2023 The Legend of 0 point 38mm"
         }
@@ -2515,129 +2972,195 @@
           "text": "Like this one"
         },
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/18-03-2023-Dutch-Democracy",
           "text": "18-03-2023 Dutch Democracy"
         }
       ],
+      "/20-06-2023-My-thoughts-on-the-existence-of-Majorana-fermions": [
+        {
+          "source": "/Writings",
+          "target": "/20-06-2023-My-thoughts-on-the-existence-of-Majorana-fermions",
+          "text": "20-06-2023 My thoughts on the existence of Majorana fermions"
+        }
+      ],
       "/20-12-2022-Website-Philosophy": [
         {
-          "source": "/",
-          "target": "/20-12-2022-Website-Philosophy",
-          "text": "website philosophy"
-        },
-        {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/20-12-2022-Website-Philosophy",
           "text": "20-12-2022 Website Philosophy"
+        },
+        {
+          "source": "/Writings",
+          "target": "/20-12-2022-Website-Philosophy",
+          "text": "20-12-2022 Website Philosophy"
+        },
+        {
+          "source": "/old-index",
+          "target": "/20-12-2022-Website-Philosophy",
+          "text": "website philosophy"
+        }
+      ],
+      "/21-05-2023-ANGY": [
+        {
+          "source": "/Writings",
+          "target": "/21-05-2023-ANGY",
+          "text": "21-05-2023 ANGY"
         }
       ],
       "/21-05-2023-Competency-in-a-democracy": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/21-05-2023-Competency-in-a-democracy",
           "text": "21-05-2023 Competency in a democracy"
         }
       ],
       "/23-02-2023-The-Chemical-Blacklist": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/23-02-2023-The-Chemical-Blacklist",
           "text": "23-02-2023 The Chemical Blacklist"
         }
       ],
       "/23-02-2023-The-v-3-saga": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/23-02-2023-The-v-3-saga",
           "text": "23-02-2023 The v 3 saga"
         }
       ],
       "/23-03-2023-In-response-to-a-certain-spicata-quote": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/23-03-2023-In-response-to-a-certain-spicata-quote",
           "text": "23-03-2023 In response to a certain spicata quote"
         }
       ],
       "/23-03-2023-In-response-to-allegations-from-chris-chen-choe": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/23-03-2023-In-response-to-allegations-from-chris-chen-choe",
           "text": "23-03-2023 In response to allegations from chris chen choe"
         }
       ],
       "/23-03-2023-In-response-to-the-other-spicata-quotes": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/23-03-2023-In-response-to-the-other-spicata-quotes",
           "text": "23-03-2023 In response to the other spicata quotes"
         }
       ],
       "/23-12-2022-The-Holiday-Goals": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/23-12-2022-The-Holiday-Goals",
           "text": "23-12-2022 The Holiday Goals"
         }
       ],
       "/24-02-2023-An-angrily-written-response-to-spicatas-claims-about-my-css": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/24-02-2023-An-angrily-written-response-to-spicatas-claims-about-my-css",
           "text": "24-02-2023 An angrily written response to spicatas claims about my css"
         }
       ],
-      "/25-02-2023-How-to-make-a-note-taking-website-WITHOUT-PAYING": [
+      "/24-05-2023-A1-Populi-Leges": [
+        {
+          "source": "/Writings",
+          "target": "/24-05-2023-A1-Populi-Leges",
+          "text": "24-05-2023 A1 Populi Leges"
+        }
+      ],
+      "/24-05-2023-Gaming": [
+        {
+          "source": "/Writings",
+          "target": "/24-05-2023-Gaming",
+          "text": "24-05-2023 Gaming"
+        }
+      ],
+      "/25-02-2023-How-to-make-a-note-taking-website-outdated": [
         {
           "source": "/20-12-2022-Website-Philosophy",
-          "target": "/25-02-2023-How-to-make-a-note-taking-website-WITHOUT-PAYING",
+          "target": "/25-02-2023-How-to-make-a-note-taking-website-outdated",
           "text": "how to setup a website via obsidian and github"
         },
         {
-          "source": "/notablog",
-          "target": "/25-02-2023-How-to-make-a-note-taking-website-WITHOUT-PAYING",
-          "text": "25-02-2023 How to make a note-taking website WITHOUT PAYING"
+          "source": "/Writings",
+          "target": "/25-02-2023-How-to-make-a-note-taking-website-outdated",
+          "text": "25-02-2023 How to make a note-taking website (outdated)"
         }
       ],
       "/26-03-2023-The-Town-Bank": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/26-03-2023-The-Town-Bank",
           "text": "26-03-2023 The Town Bank"
         }
       ],
+      "/26-05-2023-Emails-I-own": [
+        {
+          "source": "/Writings",
+          "target": "/26-05-2023-Emails-I-own",
+          "text": "26-05-2023 Emails I own"
+        }
+      ],
       "/27-04-2023-The-Obby-experience": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/27-04-2023-The-Obby-experience",
           "text": "27-04-2023 The Obby experience"
         }
       ],
       "/27-11-2022-Sleep-is-not-as-important": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
+          "target": "/27-11-2022-Sleep-is-not-as-important",
+          "text": "27-11-2022 Sleep is not as important"
+        },
+        {
+          "source": "/Writings",
           "target": "/27-11-2022-Sleep-is-not-as-important",
           "text": "27-11-2022 Sleep is not as important"
         }
       ],
       "/28-02-2023-A-response-to-spicatas-claims-on-tutors": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/28-02-2023-A-response-to-spicatas-claims-on-tutors",
           "text": "28-02-2023 A response to spicatas claims on tutors"
         }
       ],
       "/28-03-2023-general-advice-for-things-based-on-my-website": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/28-03-2023-general-advice-for-things-based-on-my-website",
           "text": "28-03-2023 general advice for things based on my website"
         }
       ],
+      "/28-06-2023-Done": [
+        {
+          "source": "/Writings",
+          "target": "/28-06-2023-Done",
+          "text": "28-06-2023 Done"
+        }
+      ],
+      "/28-06-2023-Parasites": [
+        {
+          "source": "/Writings",
+          "target": "/28-06-2023-Parasites",
+          "text": "28-06-2023 Parasites"
+        }
+      ],
+      "/30-06-2023-Feedback-Page": [
+        {
+          "source": "/Writings",
+          "target": "/30-06-2023-Feedback-Page",
+          "text": "30-06-2023 Feedback Page"
+        }
+      ],
       "/31-03-2023-Holiday-Goals-v-2": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/31-03-2023-Holiday-Goals-v-2",
           "text": "31-03-2023 Holiday Goals v 2"
         }
@@ -2649,9 +3172,28 @@
           "text": "FTH"
         },
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/31-03-2023-The-Fred-Tendency-Hypothesis-FTH",
           "text": "31-03-2023 The Fred Tendency Hypothesis (FTH)"
+        },
+        {
+          "source": "/Writings",
+          "target": "/31-03-2023-The-Fred-Tendency-Hypothesis-FTH",
+          "text": "31-03-2023 The Fred Tendency Hypothesis (FTH)"
+        }
+      ],
+      "/4-parter": [
+        {
+          "source": "/Idea-List",
+          "target": "/4-parter",
+          "text": "4 parter"
+        }
+      ],
+      "/A-bill-of-town": [
+        {
+          "source": "/Writings",
+          "target": "/A-bill-of-town",
+          "text": "A bill of town"
         }
       ],
       "/AECHE-Class-Notes": [
@@ -2661,7 +3203,7 @@
           "text": "AECHE Class Notes"
         },
         {
-          "source": "/",
+          "source": "/old-index",
           "target": "/AECHE-Class-Notes",
           "text": "Class Notes"
         }
@@ -2675,7 +3217,7 @@
       ],
       "/AECHE-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
           "target": "/AECHE-Notes",
           "text": "AECHE Notes"
         }
@@ -2687,7 +3229,7 @@
           "text": "AECHE Published Notes"
         },
         {
-          "source": "/",
+          "source": "/old-index",
           "target": "/AECHE-Published-Notes",
           "text": "Published Notes"
         }
@@ -2699,7 +3241,7 @@
           "text": "AECHE Topic Notes"
         },
         {
-          "source": "/",
+          "source": "/old-index",
           "target": "/AECHE-Topic-Notes",
           "text": "Topic Notes"
         }
@@ -2713,7 +3255,7 @@
       ],
       "/AECSL-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
           "target": "/AECSL-Notes",
           "text": "AECSL Notes"
         }
@@ -2725,30 +3267,37 @@
           "text": "AECSL Speaking Assessment 1"
         }
       ],
+      "/AECSL-Speaking-Assessment-2": [
+        {
+          "source": "/AECSL-Notes",
+          "target": "/AECSL-Speaking-Assessment-2",
+          "text": "AECSL Speaking Assessment 2"
+        }
+      ],
       "/AELIT-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
           "target": "/AELIT-Notes",
           "text": "AELIT Notes"
         }
       ],
       "/AEMET-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
           "target": "/AEMET-Notes",
           "text": "AEMET Notes"
         }
       ],
       "/AEPHY-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
           "target": "/AEPHY-Notes",
           "text": "AEPHY Notes"
         }
       ],
       "/AESPE-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
           "target": "/AESPE-Notes",
           "text": "AESPE Notes"
         }
@@ -2762,7 +3311,12 @@
       ],
       "/ATCHE-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
+          "target": "/ATCHE-Notes",
+          "text": "yr 12 chem notes"
+        },
+        {
+          "source": "/",
           "target": "/ATCHE-Notes",
           "text": "ATCHE Notes"
         }
@@ -2776,9 +3330,16 @@
       ],
       "/Bio-Body-Reponse-Notes": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/Bio-Body-Reponse-Notes",
           "text": "Bio Body Reponse Notes"
+        }
+      ],
+      "/Blaze": [
+        {
+          "source": "/Idea-List",
+          "target": "/Blaze",
+          "text": "Blaze"
         }
       ],
       "/Brilliant-Course-Complex-Numbers": [
@@ -2814,7 +3375,7 @@
           "text": "Chemistry Resources review"
         },
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/Chemistry-Resources-review",
           "text": "Chemistry Textbook review"
         }
@@ -2868,14 +3429,14 @@
       ],
       "/Computer-Science-Part-1": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/Computer-Science-Part-1",
           "text": "Computer-Science-Part-1"
         }
       ],
       "/Computer-Science-Part-2": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/Computer-Science-Part-2",
           "text": "Computer-Science-Part-2"
         }
@@ -2899,6 +3460,11 @@
           "source": "/",
           "target": "/Development-Status",
           "text": "development status"
+        },
+        {
+          "source": "/old-index",
+          "target": "/Development-Status",
+          "text": "development status"
         }
       ],
       "/Differentiation-Notes": [
@@ -2915,6 +3481,13 @@
           "text": "Econ  Class 18"
         }
       ],
+      "/Eds-Obsidian-Notes-Ideas": [
+        {
+          "source": "/Idea-List",
+          "target": "/Eds-Obsidian-Notes-Ideas",
+          "text": "Ed's Obsidian Notes"
+        }
+      ],
       "/Electron-Configuration": [
         {
           "source": "/AECHE-Topic-Notes",
@@ -2922,9 +3495,16 @@
           "text": "Electron Configuration"
         },
         {
-          "source": "/",
+          "source": "/old-index",
           "target": "/Electron-Configuration",
           "text": "Electron Configuration"
+        }
+      ],
+      "/Empirical-formula-questions": [
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/Empirical-formula-questions",
+          "text": "Empirical formula questions"
         }
       ],
       "/Energy-and-Enthalpy": [
@@ -3037,35 +3617,35 @@
       ],
       "/Finding-angle-given-3-sides-without-using-cosine-rule": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/Finding-angle-given-3-sides-without-using-cosine-rule",
           "text": "Finding angle given 3 sides without using cosine rule"
         }
       ],
       "/Fred-Exam-Chem-1": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/Fred-Exam-Chem-1",
           "text": "Fred Exam Chem 1"
         }
       ],
       "/Fred-Plan": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/Fred-Plan",
           "text": "Fred Plan"
         }
       ],
       "/Fred-Test-Chem-1": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/Fred-Test-Chem-1",
           "text": "Fred Test Chem 1"
         }
       ],
       "/Fred-Test-Chem-2": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/Fred-Test-Chem-2",
           "text": "Fred Test Chem 2"
         }
@@ -3119,7 +3699,12 @@
       ],
       "/Idea-List": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
+          "target": "/Idea-List",
+          "text": "Idea List"
+        },
+        {
+          "source": "/Writings",
           "target": "/Idea-List",
           "text": "Idea List"
         }
@@ -3152,6 +3737,13 @@
           "text": "Jekyll and Hyde Exemplar"
         }
       ],
+      "/Letter-to-A": [
+        {
+          "source": "/AELIT-Notes",
+          "target": "/Letter-to-A",
+          "text": "Letter to A"
+        }
+      ],
       "/Linux-Github-Saga": [
         {
           "source": "/Development-Status",
@@ -3159,7 +3751,7 @@
           "text": "Linux Github Saga"
         },
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/Linux-Github-Saga",
           "text": "Linux Github Saga"
         }
@@ -3178,6 +3770,13 @@
           "text": "Lit Exam Essay Planning"
         }
       ],
+      "/Lit-Exemplars": [
+        {
+          "source": "/AELIT-Notes",
+          "target": "/Lit-Exemplars",
+          "text": "Lit Exemplars"
+        }
+      ],
       "/Lit-Language-Features-Glossary": [
         {
           "source": "/10LIT-Notes",
@@ -3185,11 +3784,25 @@
           "text": "Lit Language Features Glossary"
         }
       ],
+      "/Lit-Panel-Discussion-Brainstorming": [
+        {
+          "source": "/AELIT-Notes",
+          "target": "/Lit-Panel-Discussion-Brainstorming",
+          "text": "Lit Panel Discussion Brainstorming"
+        }
+      ],
       "/Literature-Course-Concepts": [
         {
           "source": "/AELIT-Notes",
           "target": "/Literature-Course-Concepts",
           "text": "Literature Course Concepts"
+        }
+      ],
+      "/Literature-Exam-Pieces": [
+        {
+          "source": "/AELIT-Notes",
+          "target": "/Literature-Exam-Pieces",
+          "text": "Literature Exam Pieces"
         }
       ],
       "/Literature-Excerpt-Practice": [
@@ -3255,23 +3868,30 @@
       ],
       "/Markdown-Resources": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/Markdown-Resources",
           "text": "Markdown Resources"
         }
       ],
       "/Math-Working-Out": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/Math-Working-Out",
           "text": "Math Working Out"
         }
       ],
       "/Math-Working-Out-2": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/Math-Working-Out-2",
           "text": "Math Working Out 2"
+        }
+      ],
+      "/Medical-Physics-and-Dosimetry": [
+        {
+          "source": "/AEPHY-Notes",
+          "target": "/Medical-Physics-and-Dosimetry",
+          "text": "Medical Physics and Dosimetry"
         }
       ],
       "/Metallic-Bonding": [
@@ -3295,13 +3915,6 @@
           "text": "Nanomaterials"
         }
       ],
-      "/Notes": [
-        {
-          "source": "/",
-          "target": "/Notes",
-          "text": "notes"
-        }
-      ],
       "/Notice-Board": [
         {
           "source": "/15-03-2023-Theme-List",
@@ -3315,6 +3928,11 @@
         },
         {
           "source": "/",
+          "target": "/Notice-Board",
+          "text": "the notice board"
+        },
+        {
+          "source": "/old-index",
           "target": "/Notice-Board",
           "text": "Notice Board"
         }
@@ -3355,6 +3973,13 @@
           "text": "Operation Sovereign Borders policy"
         }
       ],
+      "/Organic-Cheat-sheet": [
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/Organic-Cheat-sheet",
+          "text": "Organic Cheat sheet"
+        }
+      ],
       "/Organic-Chem-Notes": [
         {
           "source": "/AECHE-Published-Notes",
@@ -3362,11 +3987,32 @@
           "text": "Organic Chem Guide"
         }
       ],
+      "/Organic-Chem-Questions": [
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/Organic-Chem-Questions",
+          "text": "Organic Chem Questions"
+        }
+      ],
       "/Organic-Chem-Structure-and-Naming": [
         {
           "source": "/AECHE-Topic-Notes",
           "target": "/Organic-Chem-Structure-and-Naming",
           "text": "Organic Chem - Structure and Naming"
+        }
+      ],
+      "/P-AELIT-1": [
+        {
+          "source": "/AELIT-Notes",
+          "target": "/P-AELIT-1",
+          "text": "P-AELIT-1"
+        }
+      ],
+      "/P-AELIT-2": [
+        {
+          "source": "/AELIT-Notes",
+          "target": "/P-AELIT-2",
+          "text": "P-AELIT-2"
         }
       ],
       "/Physics-1": [
@@ -3392,7 +4038,7 @@
       ],
       "/Piano-Pieces": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/Piano-Pieces",
           "text": "Piano Pieces"
         }
@@ -3426,6 +4072,11 @@
       "/Pranav-and-Co": [
         {
           "source": "/",
+          "target": "/Pranav-and-Co",
+          "text": "My computer background"
+        },
+        {
+          "source": "/old-index",
           "target": "/Pranav-and-Co",
           "text": "Pranav and Co"
         }
@@ -3687,6 +4338,11 @@
           "source": "/",
           "target": "/R-AECHE-32",
           "text": "R-AECHE-32"
+        },
+        {
+          "source": "/old-index",
+          "target": "/R-AECHE-32",
+          "text": "R-AECHE-32"
         }
       ],
       "/R-AECHE-33": [
@@ -3882,11 +4538,46 @@
           "text": "R-AECSL-2"
         }
       ],
+      "/R-AECSL-3": [
+        {
+          "source": "/AECSL-Notes",
+          "target": "/R-AECSL-3",
+          "text": "R-AECSL-3"
+        }
+      ],
+      "/R-AECSL-4": [
+        {
+          "source": "/AECSL-Notes",
+          "target": "/R-AECSL-4",
+          "text": "R-AECSL-4"
+        }
+      ],
+      "/R-AECSL-5": [
+        {
+          "source": "/AECSL-Notes",
+          "target": "/R-AECSL-5",
+          "text": "R-AECSL-5"
+        }
+      ],
+      "/R-AECSL-6": [
+        {
+          "source": "/AECSL-Notes",
+          "target": "/R-AECSL-6",
+          "text": "R-AECSL-6"
+        }
+      ],
       "/R-AELIT-1": [
         {
           "source": "/AELIT-Notes",
           "target": "/R-AELIT-1",
           "text": "R-AELIT-1"
+        }
+      ],
+      "/R-AELIT-2": [
+        {
+          "source": "/AELIT-Notes",
+          "target": "/R-AELIT-2",
+          "text": "R-AELIT-2"
         }
       ],
       "/R-AEMET-1": [
@@ -3938,6 +4629,41 @@
           "text": "R-AEPHY-12"
         }
       ],
+      "/R-AEPHY-13": [
+        {
+          "source": "/AEPHY-Notes",
+          "target": "/R-AEPHY-13",
+          "text": "R-AEPHY-13"
+        }
+      ],
+      "/R-AEPHY-14": [
+        {
+          "source": "/AEPHY-Notes",
+          "target": "/R-AEPHY-14",
+          "text": "R-AEPHY-14"
+        }
+      ],
+      "/R-AEPHY-15": [
+        {
+          "source": "/AEPHY-Notes",
+          "target": "/R-AEPHY-15",
+          "text": "R-AEPHY-15"
+        }
+      ],
+      "/R-AEPHY-16": [
+        {
+          "source": "/AEPHY-Notes",
+          "target": "/R-AEPHY-16",
+          "text": "R-AEPHY-16"
+        }
+      ],
+      "/R-AEPHY-17": [
+        {
+          "source": "/AEPHY-Notes",
+          "target": "/R-AEPHY-17",
+          "text": "R-AEPHY-17"
+        }
+      ],
       "/R-AEPHY-1S": [
         {
           "source": "/AEPHY-Notes",
@@ -3964,6 +4690,13 @@
           "source": "/AEPHY-Notes",
           "target": "/R-AEPHY-3",
           "text": "R-AEPHY-3"
+        }
+      ],
+      "/R-AEPHY-3S": [
+        {
+          "source": "/AEPHY-Notes",
+          "target": "/R-AEPHY-3S",
+          "text": "R-AEPHY-3(S)"
         }
       ],
       "/R-AEPHY-4": [
@@ -4113,6 +4846,27 @@
           "text": "R-AESPE-21"
         }
       ],
+      "/R-AESPE-22": [
+        {
+          "source": "/AESPE-Notes",
+          "target": "/R-AESPE-22",
+          "text": "R-AESPE-22"
+        }
+      ],
+      "/R-AESPE-23": [
+        {
+          "source": "/AESPE-Notes",
+          "target": "/R-AESPE-23",
+          "text": "R-AESPE-23"
+        }
+      ],
+      "/R-AESPE-24": [
+        {
+          "source": "/AESPE-Notes",
+          "target": "/R-AESPE-24",
+          "text": "R-AESPE-24"
+        }
+      ],
       "/R-AESPE-3": [
         {
           "source": "/AESPE-Notes",
@@ -4260,6 +5014,60 @@
           "text": "R-ATCHE-20"
         }
       ],
+      "/R-ATCHE-21": [
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-21",
+          "text": "R-ATCHE-21"
+        }
+      ],
+      "/R-ATCHE-22": [
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-22",
+          "text": "R-ATCHE-22"
+        },
+        {
+          "source": "/R-ATCHE-23",
+          "target": "/R-ATCHE-22",
+          "text": "last time"
+        }
+      ],
+      "/R-ATCHE-23": [
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-23",
+          "text": "R-ATCHE-23"
+        }
+      ],
+      "/R-ATCHE-24": [
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-24",
+          "text": "R-ATCHE-24"
+        }
+      ],
+      "/R-ATCHE-25": [
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-25",
+          "text": "R-ATCHE-25"
+        }
+      ],
+      "/R-ATCHE-26": [
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-26",
+          "text": "R-ATCHE-26"
+        }
+      ],
+      "/R-ATCHE-27": [
+        {
+          "source": "/ATCHE-Notes",
+          "target": "/R-ATCHE-27",
+          "text": "R-ATCHE-27"
+        }
+      ],
       "/R-ATCHE-2S": [
         {
           "source": "/ATCHE-Notes",
@@ -4342,6 +5150,25 @@
           "source": "/ATCHE-Notes",
           "target": "/R-ATCHE-9",
           "text": "R-ATCHE-9"
+        }
+      ],
+      "/Random-Lit-Notetaking": [
+        {
+          "source": "/AELIT-Notes",
+          "target": "/Random-Lit-Notetaking",
+          "text": "Random Lit Notetaking"
+        }
+      ],
+      "/Random-Notes": [
+        {
+          "source": "/",
+          "target": "/Random-Notes",
+          "text": "Random Notes"
+        },
+        {
+          "source": "/old-index",
+          "target": "/Random-Notes",
+          "text": "notes"
         }
       ],
       "/Rate-of-Reaction": [
@@ -4428,7 +5255,7 @@
       ],
       "/Set-List": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/Set-List",
           "text": "Set List"
         }
@@ -4442,14 +5269,14 @@
       ],
       "/Spec-Notes": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/Spec-Notes",
           "text": "Spec Notes"
         }
       ],
       "/Spec-Proofs": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/Spec-Proofs",
           "text": "Spec Proofs"
         }
@@ -4463,16 +5290,23 @@
       ],
       "/Study-Group-Subjects": [
         {
-          "source": "/",
+          "source": "/old-index",
           "target": "/Study-Group-Subjects",
           "text": "study group"
         }
       ],
       "/Templates-List": [
         {
-          "source": "/notablog",
+          "source": "/Writings",
           "target": "/Templates-List",
           "text": "Templates List"
+        }
+      ],
+      "/The-Pepper-Tree": [
+        {
+          "source": "/P-AELIT-1",
+          "target": "/The-Pepper-Tree",
+          "text": "The Pepper Tree"
         }
       ],
       "/The-Periodic-Table": [
@@ -4491,9 +5325,21 @@
       ],
       "/The-most-important-symbol-in-the-universe": [
         {
-          "source": "/Notes",
+          "source": "/Random-Notes",
           "target": "/The-most-important-symbol-in-the-universe",
           "text": "The most important symbol in the universe"
+        }
+      ],
+      "/Thylacine": [
+        {
+          "source": "/AELIT-Notes",
+          "target": "/Thylacine",
+          "text": "Thylacine"
+        },
+        {
+          "source": "/P-AELIT-1",
+          "target": "/Thylacine",
+          "text": "Thylacine"
         }
       ],
       "/Water-Quality": [
@@ -4510,6 +5356,13 @@
           "text": "Waves Evaluation and Analysis Task AEPHY"
         }
       ],
+      "/Website-Domain-Contributors": [
+        {
+          "source": "/Writings",
+          "target": "/Website-Domain-Contributors",
+          "text": "Website Domain Contributors"
+        }
+      ],
       "/Why-do-buoys-in-the-ocean-not-move": [
         {
           "source": "/AEPHY-Notes",
@@ -4517,16 +5370,28 @@
           "text": "Why do buoys in the ocean not move"
         }
       ],
+      "/Writings": [
+        {
+          "source": "/",
+          "target": "/Writings",
+          "text": "Writings"
+        },
+        {
+          "source": "/old-index",
+          "target": "/Writings",
+          "text": "Writings"
+        }
+      ],
       "/Yr-10-Methods-Notes": [
         {
-          "source": "/Notes",
+          "source": "/",
           "target": "/Yr-10-Methods-Notes",
           "text": "Methods Notes"
         }
       ],
       "/about": [
         {
-          "source": "/",
+          "source": "/old-index",
           "target": "/about",
           "text": "Ed"
         }
@@ -4557,13 +5422,6 @@
           "text": "lit lit lit annotated"
         }
       ],
-      "/notablog": [
-        {
-          "source": "/",
-          "target": "/notablog",
-          "text": "writings"
-        }
-      ],
       "/official-test-page": [
         {
           "source": "/15-03-2023-Theme-List",
@@ -4581,6 +5439,25 @@
           "text": "this"
         }
       ],
+      "/old-index": [
+        {
+          "source": "/",
+          "target": "/old-index",
+          "text": "old index page"
+        }
+      ],
+      "/penguins": [
+        {
+          "source": "/",
+          "target": "/penguins",
+          "text": "penguins."
+        },
+        {
+          "source": "/old-index",
+          "target": "/penguins",
+          "text": "penguins."
+        }
+      ],
       "/secrets/How-making-a-website-erodes-your-mental-stability": [
         {
           "source": "/Development-Status",
@@ -4593,6 +5470,20 @@
           "source": "/about",
           "target": "/secrets/phone-number",
           "text": "phone number"
+        }
+      ],
+      "/shan-meis-essay": [
+        {
+          "source": "/Writings",
+          "target": "/shan-meis-essay",
+          "text": "shan mei's essay"
+        }
+      ],
+      "/spider-verse-but-pranav": [
+        {
+          "source": "/Idea-List",
+          "target": "/spider-verse-but-pranav",
+          "text": "spider verse but pranav"
         }
       ],
       "/templates/AECHE-Topic-Notes-Template": [
@@ -4656,6 +5547,13 @@
           "source": "/Templates-List",
           "target": "/templates/jacaranda",
           "text": "jacaranda"
+        }
+      ],
+      "/templates/pdf-link": [
+        {
+          "source": "/Templates-List",
+          "target": "/templates/pdf-link",
+          "text": "pdf link"
         }
       ],
       "/templates/secret-template": [
@@ -5030,6 +5928,11 @@
       "text": "FTH"
     },
     {
+      "source": "/12-07-2023-Brexit-means-brexit",
+      "target": "/08-05-2023-A-narrative-haha-its-a-j-and-h-reference",
+      "text": "Heres the proof"
+    },
+    {
       "source": "/15-03-2023-Theme-List",
       "target": "/official-test-page",
       "text": "official"
@@ -5071,7 +5974,7 @@
     },
     {
       "source": "/20-12-2022-Website-Philosophy",
-      "target": "/25-02-2023-How-to-make-a-note-taking-website-WITHOUT-PAYING",
+      "target": "/25-02-2023-How-to-make-a-note-taking-website-outdated",
       "text": "how to setup a website via obsidian and github"
     },
     {
@@ -5486,6 +6389,31 @@
     },
     {
       "source": "/AECSL-Notes",
+      "target": "/R-AECSL-3",
+      "text": "R-AECSL-3"
+    },
+    {
+      "source": "/AECSL-Notes",
+      "target": "/R-AECSL-4",
+      "text": "R-AECSL-4"
+    },
+    {
+      "source": "/AECSL-Notes",
+      "target": "/R-AECSL-5",
+      "text": "R-AECSL-5"
+    },
+    {
+      "source": "/AECSL-Notes",
+      "target": "/R-AECSL-6",
+      "text": "R-AECSL-6"
+    },
+    {
+      "source": "/AECSL-Notes",
+      "target": "/AECSL-Speaking-Assessment-2",
+      "text": "AECSL Speaking Assessment 2"
+    },
+    {
+      "source": "/AECSL-Notes",
       "target": "/AECSL-Anki-Vocab-List",
       "text": "AECSL Anki Vocab List"
     },
@@ -5556,8 +6484,53 @@
     },
     {
       "source": "/AELIT-Notes",
+      "target": "/Literature-Exam-Pieces",
+      "text": "Literature Exam Pieces"
+    },
+    {
+      "source": "/AELIT-Notes",
+      "target": "/Lit-Panel-Discussion-Brainstorming",
+      "text": "Lit Panel Discussion Brainstorming"
+    },
+    {
+      "source": "/AELIT-Notes",
+      "target": "/Lit-Exemplars",
+      "text": "Lit Exemplars"
+    },
+    {
+      "source": "/AELIT-Notes",
+      "target": "/Thylacine",
+      "text": "Thylacine"
+    },
+    {
+      "source": "/AELIT-Notes",
+      "target": "/Letter-to-A",
+      "text": "Letter to A"
+    },
+    {
+      "source": "/AELIT-Notes",
+      "target": "/Random-Lit-Notetaking",
+      "text": "Random Lit Notetaking"
+    },
+    {
+      "source": "/AELIT-Notes",
       "target": "/R-AELIT-1",
       "text": "R-AELIT-1"
+    },
+    {
+      "source": "/AELIT-Notes",
+      "target": "/R-AELIT-2",
+      "text": "R-AELIT-2"
+    },
+    {
+      "source": "/AELIT-Notes",
+      "target": "/P-AELIT-1",
+      "text": "P-AELIT-1"
+    },
+    {
+      "source": "/AELIT-Notes",
+      "target": "/P-AELIT-2",
+      "text": "P-AELIT-2"
     },
     {
       "source": "/AEMET-Notes",
@@ -5641,6 +6614,36 @@
     },
     {
       "source": "/AEPHY-Notes",
+      "target": "/R-AEPHY-13",
+      "text": "R-AEPHY-13"
+    },
+    {
+      "source": "/AEPHY-Notes",
+      "target": "/R-AEPHY-14",
+      "text": "R-AEPHY-14"
+    },
+    {
+      "source": "/AEPHY-Notes",
+      "target": "/R-AEPHY-15",
+      "text": "R-AEPHY-15"
+    },
+    {
+      "source": "/AEPHY-Notes",
+      "target": "/R-AEPHY-16",
+      "text": "R-AEPHY-16"
+    },
+    {
+      "source": "/AEPHY-Notes",
+      "target": "/R-AEPHY-17",
+      "text": "R-AEPHY-17"
+    },
+    {
+      "source": "/AEPHY-Notes",
+      "target": "/Medical-Physics-and-Dosimetry",
+      "text": "Medical Physics and Dosimetry"
+    },
+    {
+      "source": "/AEPHY-Notes",
       "target": "/Waves-Evaluation-and-Analysis-Task-AEPHY",
       "text": "Waves Evaluation and Analysis Task AEPHY"
     },
@@ -5653,6 +6656,11 @@
       "source": "/AEPHY-Notes",
       "target": "/R-AEPHY-2S",
       "text": "R-AEPHY-2(S)"
+    },
+    {
+      "source": "/AEPHY-Notes",
+      "target": "/R-AEPHY-3S",
+      "text": "R-AEPHY-3(S)"
     },
     {
       "source": "/AESPE-Notes",
@@ -5758,6 +6766,21 @@
       "source": "/AESPE-Notes",
       "target": "/R-AESPE-21",
       "text": "R-AESPE-21"
+    },
+    {
+      "source": "/AESPE-Notes",
+      "target": "/R-AESPE-22",
+      "text": "R-AESPE-22"
+    },
+    {
+      "source": "/AESPE-Notes",
+      "target": "/R-AESPE-23",
+      "text": "R-AESPE-23"
+    },
+    {
+      "source": "/AESPE-Notes",
+      "target": "/R-AESPE-24",
+      "text": "R-AESPE-24"
     },
     {
       "source": "/AESPE-Notes",
@@ -5871,6 +6894,41 @@
     },
     {
       "source": "/ATCHE-Notes",
+      "target": "/R-ATCHE-21",
+      "text": "R-ATCHE-21"
+    },
+    {
+      "source": "/ATCHE-Notes",
+      "target": "/R-ATCHE-22",
+      "text": "R-ATCHE-22"
+    },
+    {
+      "source": "/ATCHE-Notes",
+      "target": "/R-ATCHE-23",
+      "text": "R-ATCHE-23"
+    },
+    {
+      "source": "/ATCHE-Notes",
+      "target": "/R-ATCHE-24",
+      "text": "R-ATCHE-24"
+    },
+    {
+      "source": "/ATCHE-Notes",
+      "target": "/R-ATCHE-25",
+      "text": "R-ATCHE-25"
+    },
+    {
+      "source": "/ATCHE-Notes",
+      "target": "/R-ATCHE-26",
+      "text": "R-ATCHE-26"
+    },
+    {
+      "source": "/ATCHE-Notes",
+      "target": "/R-ATCHE-27",
+      "text": "R-ATCHE-27"
+    },
+    {
+      "source": "/ATCHE-Notes",
       "target": "/R-ATCHE-1S",
       "text": "R-ATCHE-1(S)"
     },
@@ -5898,6 +6956,21 @@
       "source": "/ATCHE-Notes",
       "target": "/R-ATCHE-6S",
       "text": "R-ATCHE-6(S)"
+    },
+    {
+      "source": "/ATCHE-Notes",
+      "target": "/Organic-Chem-Questions",
+      "text": "Organic Chem Questions"
+    },
+    {
+      "source": "/ATCHE-Notes",
+      "target": "/Organic-Cheat-sheet",
+      "text": "Organic Cheat sheet"
+    },
+    {
+      "source": "/ATCHE-Notes",
+      "target": "/Empirical-formula-questions",
+      "text": "Empirical formula questions"
     },
     {
       "source": "/Brilliant-Course-Complex-Numbers",
@@ -5991,6 +7064,31 @@
     },
     {
       "source": "/Idea-List",
+      "target": "/4-parter",
+      "text": "4 parter"
+    },
+    {
+      "source": "/Idea-List",
+      "target": "/spider-verse-but-pranav",
+      "text": "spider verse but pranav"
+    },
+    {
+      "source": "/Idea-List",
+      "target": "/Blaze",
+      "text": "Blaze"
+    },
+    {
+      "source": "/Idea-List",
+      "target": "/02-07-2023-Quartz-for-Dummies",
+      "text": "02-07-2023 Quartz for Dummies"
+    },
+    {
+      "source": "/Idea-List",
+      "target": "/Eds-Obsidian-Notes-Ideas",
+      "text": "Ed's Obsidian Notes"
+    },
+    {
+      "source": "/Idea-List",
       "target": "/05-05-2023-Why-did-I-name-the-writings-null",
       "text": "reason here"
     },
@@ -5998,146 +7096,6 @@
       "source": "/Metallic-Bonding",
       "target": "/R-AECHE-17",
       "text": "R-AECHE-17"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Yr-10-Methods-Notes",
-      "text": "Methods Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/10Econ-Notes",
-      "text": "10Econ Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/10TCS-Notes",
-      "text": "10TCS Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/10SCI-Notes",
-      "text": "10SCI Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/10ENG-Notes",
-      "text": "10ENG Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/10LIT-Notes",
-      "text": "10LIT Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/10CSL-Notes",
-      "text": "10CSL Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/AECHE-Notes",
-      "text": "AECHE Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/AECSL-Notes",
-      "text": "AECSL Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/AELIT-Notes",
-      "text": "AELIT Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/AEMET-Notes",
-      "text": "AEMET Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/AEPHY-Notes",
-      "text": "AEPHY Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/AESPE-Notes",
-      "text": "AESPE Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/ATCHE-Notes",
-      "text": "ATCHE Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Markdown-Resources",
-      "text": "Markdown Resources"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Math-Working-Out",
-      "text": "Math Working Out"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Math-Working-Out-2",
-      "text": "Math Working Out 2"
-    },
-    {
-      "source": "/Notes",
-      "target": "/The-most-important-symbol-in-the-universe",
-      "text": "The most important symbol in the universe"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Spec-Notes",
-      "text": "Spec Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Spec-Proofs",
-      "text": "Spec Proofs"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Finding-angle-given-3-sides-without-using-cosine-rule",
-      "text": "Finding angle given 3 sides without using cosine rule"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Computer-Science-Part-1",
-      "text": "Computer-Science-Part-1"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Computer-Science-Part-2",
-      "text": "Computer-Science-Part-2"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Bio-Body-Reponse-Notes",
-      "text": "Bio Body Reponse Notes"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Fred-Test-Chem-1",
-      "text": "Fred Test Chem 1"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Fred-Test-Chem-2",
-      "text": "Fred Test Chem 2"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Fred-Exam-Chem-1",
-      "text": "Fred Exam Chem 1"
-    },
-    {
-      "source": "/Notes",
-      "target": "/Fred-Plan",
-      "text": "Fred Plan"
     },
     {
       "source": "/Notice-Board",
@@ -6148,6 +7106,16 @@
       "source": "/Notice-Board",
       "target": "/15-03-2023-Theme-List",
       "text": "more themes"
+    },
+    {
+      "source": "/P-AELIT-1",
+      "target": "/Thylacine",
+      "text": "Thylacine"
+    },
+    {
+      "source": "/P-AELIT-1",
+      "target": "/The-Pepper-Tree",
+      "text": "The Pepper Tree"
     },
     {
       "source": "/Properties-of-matter",
@@ -6198,6 +7166,81 @@
       "source": "/R-AESPE-2",
       "target": "/Number-Sets-Notes",
       "text": "Number Sets Notes"
+    },
+    {
+      "source": "/R-ATCHE-23",
+      "target": "/R-ATCHE-22",
+      "text": "last time"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/Markdown-Resources",
+      "text": "Markdown Resources"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/Math-Working-Out",
+      "text": "Math Working Out"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/Math-Working-Out-2",
+      "text": "Math Working Out 2"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/The-most-important-symbol-in-the-universe",
+      "text": "The most important symbol in the universe"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/Spec-Notes",
+      "text": "Spec Notes"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/Spec-Proofs",
+      "text": "Spec Proofs"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/Finding-angle-given-3-sides-without-using-cosine-rule",
+      "text": "Finding angle given 3 sides without using cosine rule"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/Computer-Science-Part-1",
+      "text": "Computer-Science-Part-1"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/Computer-Science-Part-2",
+      "text": "Computer-Science-Part-2"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/Bio-Body-Reponse-Notes",
+      "text": "Bio Body Reponse Notes"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/Fred-Test-Chem-1",
+      "text": "Fred Test Chem 1"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/Fred-Test-Chem-2",
+      "text": "Fred Test Chem 2"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/Fred-Exam-Chem-1",
+      "text": "Fred Exam Chem 1"
+    },
+    {
+      "source": "/Random-Notes",
+      "target": "/Fred-Plan",
+      "text": "Fred Plan"
     },
     {
       "source": "/Rate-of-Reaction",
@@ -6275,6 +7318,376 @@
       "text": "Writing"
     },
     {
+      "source": "/Templates-List",
+      "target": "/templates/pdf-link",
+      "text": "pdf link"
+    },
+    {
+      "source": "/Writings",
+      "target": "/Linux-Github-Saga",
+      "text": "Linux Github Saga"
+    },
+    {
+      "source": "/Writings",
+      "target": "/Chemistry-Resources-review",
+      "text": "Chemistry Textbook review"
+    },
+    {
+      "source": "/Writings",
+      "target": "/27-11-2022-Sleep-is-not-as-important",
+      "text": "27-11-2022 Sleep is not as important"
+    },
+    {
+      "source": "/Writings",
+      "target": "/20-12-2022-Website-Philosophy",
+      "text": "20-12-2022 Website Philosophy"
+    },
+    {
+      "source": "/Writings",
+      "target": "/04-03-2023-the-town-analogy",
+      "text": "04-03-2023 the town analogy"
+    },
+    {
+      "source": "/Writings",
+      "target": "/A-bill-of-town",
+      "text": "A bill of town"
+    },
+    {
+      "source": "/Writings",
+      "target": "/31-03-2023-The-Fred-Tendency-Hypothesis-FTH",
+      "text": "31-03-2023 The Fred Tendency Hypothesis (FTH)"
+    },
+    {
+      "source": "/Writings",
+      "target": "/Idea-List",
+      "text": "Idea List"
+    },
+    {
+      "source": "/Writings",
+      "target": "/12-07-2023-Brexit-means-brexit",
+      "text": "12-07-2023 Brexit means brexit"
+    },
+    {
+      "source": "/Writings",
+      "target": "/27-11-2022-Sleep-is-not-as-important",
+      "text": "27-11-2022 Sleep is not as important"
+    },
+    {
+      "source": "/Writings",
+      "target": "/20-12-2022-Website-Philosophy",
+      "text": "20-12-2022 Website Philosophy"
+    },
+    {
+      "source": "/Writings",
+      "target": "/23-12-2022-The-Holiday-Goals",
+      "text": "23-12-2022 The Holiday Goals"
+    },
+    {
+      "source": "/Writings",
+      "target": "/11-01-2023-WHY-DOES-HECS-EXIST",
+      "text": "11-01-2023 WHY DOES HECS EXIST"
+    },
+    {
+      "source": "/Writings",
+      "target": "/05-02-2023-Fonts",
+      "text": "05-02-2023 Fonts"
+    },
+    {
+      "source": "/Writings",
+      "target": "/23-02-2023-The-v-3-saga",
+      "text": "23-02-2023 The v 3 saga"
+    },
+    {
+      "source": "/Writings",
+      "target": "/24-02-2023-An-angrily-written-response-to-spicatas-claims-about-my-css",
+      "text": "24-02-2023 An angrily written response to spicatas claims about my css"
+    },
+    {
+      "source": "/Writings",
+      "target": "/25-02-2023-How-to-make-a-note-taking-website-outdated",
+      "text": "25-02-2023 How to make a note-taking website (outdated)"
+    },
+    {
+      "source": "/Writings",
+      "target": "/28-02-2023-A-response-to-spicatas-claims-on-tutors",
+      "text": "28-02-2023 A response to spicatas claims on tutors"
+    },
+    {
+      "source": "/Writings",
+      "target": "/04-03-2023-the-town-analogy",
+      "text": "04-03-2023 the town analogy"
+    },
+    {
+      "source": "/Writings",
+      "target": "/07-03-2023-Website-Structure",
+      "text": "07-03-2023 Website Structure"
+    },
+    {
+      "source": "/Writings",
+      "target": "/10-03-2023-Tuition-Philosophy",
+      "text": "10-03-2023 Tuition Philosophy"
+    },
+    {
+      "source": "/Writings",
+      "target": "/13-03-2023-Addressing-the-Allegations",
+      "text": "13-03-2023 Addressing the Allegations"
+    },
+    {
+      "source": "/Writings",
+      "target": "/13-03-2023-Freds-Eyes",
+      "text": "13-03-2023 Fred's Eyes"
+    },
+    {
+      "source": "/Writings",
+      "target": "/14-03-2023-A-little-challenge",
+      "text": "14-03-2023 A little challenge"
+    },
+    {
+      "source": "/Writings",
+      "target": "/15-03-2023-Call-to-Action",
+      "text": "15-03-2023 Call to Action"
+    },
+    {
+      "source": "/Writings",
+      "target": "/15-03-2023-Theme-List",
+      "text": "15-03-2023 Theme List"
+    },
+    {
+      "source": "/Writings",
+      "target": "/17-03-2023-Tuition-Reviews",
+      "text": "17-03-2023 Tuition Reviews"
+    },
+    {
+      "source": "/Writings",
+      "target": "/26-03-2023-The-Town-Bank",
+      "text": "26-03-2023 The Town Bank"
+    },
+    {
+      "source": "/Writings",
+      "target": "/28-03-2023-general-advice-for-things-based-on-my-website",
+      "text": "28-03-2023 general advice for things based on my website"
+    },
+    {
+      "source": "/Writings",
+      "target": "/Templates-List",
+      "text": "Templates List"
+    },
+    {
+      "source": "/Writings",
+      "target": "/31-03-2023-The-Fred-Tendency-Hypothesis-FTH",
+      "text": "31-03-2023 The Fred Tendency Hypothesis (FTH)"
+    },
+    {
+      "source": "/Writings",
+      "target": "/31-03-2023-Holiday-Goals-v-2",
+      "text": "31-03-2023 Holiday Goals v 2"
+    },
+    {
+      "source": "/Writings",
+      "target": "/09-04-2023-A-change-in-course",
+      "text": "09-04-2023 A change in course"
+    },
+    {
+      "source": "/Writings",
+      "target": "/10-04-2023-Stasis",
+      "text": "10-04-2023 Stasis"
+    },
+    {
+      "source": "/Writings",
+      "target": "/11-04-2023-A-manifesto",
+      "text": "11-04-2023 A manifesto"
+    },
+    {
+      "source": "/Writings",
+      "target": "/14-04-2023-A-test",
+      "text": "14-04-2023 A test"
+    },
+    {
+      "source": "/Writings",
+      "target": "/16-04-2023-A-hopefully-complete-guide-on-learning-chemistry-well",
+      "text": "16-04-2023 A (hopefully) complete guide on learning chemistry well"
+    },
+    {
+      "source": "/Writings",
+      "target": "/05-05-2023-A-theory-on-a-logarithmic-relationship-between-effort-and-grades",
+      "text": "05-05-2023 A theory on a logarithmic relationship between effort and grades"
+    },
+    {
+      "source": "/Writings",
+      "target": "/05-05-2023-Why-did-I-name-the-writings-null",
+      "text": "05-05-2023 Why did I name the writings null"
+    },
+    {
+      "source": "/Writings",
+      "target": "/07-05-2023-Some-thoughts-on-the-state-of-the-town",
+      "text": "07-05-2023 Some thoughts on the state of the town"
+    },
+    {
+      "source": "/Writings",
+      "target": "/08-05-2023-A-narrative-haha-its-a-j-and-h-reference",
+      "text": "08-05-2023 A narrative (haha its a j and h reference)"
+    },
+    {
+      "source": "/Writings",
+      "target": "/12-05-2023-A-dialogue-of-epic-proportions",
+      "text": "12-05-2023 A dialogue of epic proportions"
+    },
+    {
+      "source": "/Writings",
+      "target": "/16-05-2023-My-struggle-with-fixing-the-graph",
+      "text": "16-05-2023 My struggle with fixing the graph"
+    },
+    {
+      "source": "/Writings",
+      "target": "/21-05-2023-ANGY",
+      "text": "21-05-2023 ANGY"
+    },
+    {
+      "source": "/Writings",
+      "target": "/21-05-2023-Competency-in-a-democracy",
+      "text": "21-05-2023 Competency in a democracy"
+    },
+    {
+      "source": "/Writings",
+      "target": "/24-05-2023-A1-Populi-Leges",
+      "text": "24-05-2023 A1 Populi Leges"
+    },
+    {
+      "source": "/Writings",
+      "target": "/24-05-2023-Gaming",
+      "text": "24-05-2023 Gaming"
+    },
+    {
+      "source": "/Writings",
+      "target": "/20-06-2023-My-thoughts-on-the-existence-of-Majorana-fermions",
+      "text": "20-06-2023 My thoughts on the existence of Majorana fermions"
+    },
+    {
+      "source": "/Writings",
+      "target": "/Website-Domain-Contributors",
+      "text": "Website Domain Contributors"
+    },
+    {
+      "source": "/Writings",
+      "target": "/28-06-2023-Parasites",
+      "text": "28-06-2023 Parasites"
+    },
+    {
+      "source": "/Writings",
+      "target": "/28-06-2023-Done",
+      "text": "28-06-2023 Done"
+    },
+    {
+      "source": "/Writings",
+      "target": "/01-07-2023-The-Linux-Mint-setup",
+      "text": "01-07-2023 The Linux Mint setup"
+    },
+    {
+      "source": "/Writings",
+      "target": "/02-07-2023-Quartz-for-Dummies",
+      "text": "02-07-2023 Quartz for Dummies"
+    },
+    {
+      "source": "/Writings",
+      "target": "/05-07-2023-The-Climacteric",
+      "text": "05-07-2023 The Climacteric"
+    },
+    {
+      "source": "/Writings",
+      "target": "/10-07-2023-How-to-get-a-toomwn-xyz-subdomain",
+      "text": "10-07-2023 How to get a toomwn xyz subdomain"
+    },
+    {
+      "source": "/Writings",
+      "target": "/11-07-2023-How-to-kill-a-chemist",
+      "text": "11-07-2023 How to kill a chemist"
+    },
+    {
+      "source": "/Writings",
+      "target": "/11-07-2023-The-goofy-discord-gambit",
+      "text": "11-07-2023 The goofy discord gambit"
+    },
+    {
+      "source": "/Writings",
+      "target": "/13-03-2023-WOODSIDE",
+      "text": "13-03-2023 WOODSIDE"
+    },
+    {
+      "source": "/Writings",
+      "target": "/18-03-2023-Dutch-Democracy",
+      "text": "18-03-2023 Dutch Democracy"
+    },
+    {
+      "source": "/Writings",
+      "target": "/23-03-2023-In-response-to-a-certain-spicata-quote",
+      "text": "23-03-2023 In response to a certain spicata quote"
+    },
+    {
+      "source": "/Writings",
+      "target": "/23-03-2023-In-response-to-the-other-spicata-quotes",
+      "text": "23-03-2023 In response to the other spicata quotes"
+    },
+    {
+      "source": "/Writings",
+      "target": "/23-03-2023-In-response-to-allegations-from-chris-chen-choe",
+      "text": "23-03-2023 In response to allegations from chris chen choe"
+    },
+    {
+      "source": "/Writings",
+      "target": "/02-02-2023-Some-thoughts-on-working-better",
+      "text": "02-02-2023 Some thoughts on working better"
+    },
+    {
+      "source": "/Writings",
+      "target": "/18-02-2023-The-Legend-of-0-point-38mm",
+      "text": "18-02-2023 The Legend of 0 point 38mm"
+    },
+    {
+      "source": "/Writings",
+      "target": "/23-02-2023-The-Chemical-Blacklist",
+      "text": "23-02-2023 The Chemical Blacklist"
+    },
+    {
+      "source": "/Writings",
+      "target": "/27-04-2023-The-Obby-experience",
+      "text": "27-04-2023 The Obby experience"
+    },
+    {
+      "source": "/Writings",
+      "target": "/Set-List",
+      "text": "Set List"
+    },
+    {
+      "source": "/Writings",
+      "target": "/03-03-2023-A-letter-to-myself",
+      "text": "03-03-2023 A letter to myself"
+    },
+    {
+      "source": "/Writings",
+      "target": "/Piano-Pieces",
+      "text": "Piano Pieces"
+    },
+    {
+      "source": "/Writings",
+      "target": "/Idea-List",
+      "text": "Idea List"
+    },
+    {
+      "source": "/Writings",
+      "target": "/26-05-2023-Emails-I-own",
+      "text": "26-05-2023 Emails I own"
+    },
+    {
+      "source": "/Writings",
+      "target": "/30-06-2023-Feedback-Page",
+      "text": "30-06-2023 Feedback Page"
+    },
+    {
+      "source": "/Writings",
+      "target": "/shan-meis-essay",
+      "text": "shan mei's essay"
+    },
+    {
       "source": "/Yr-10-Methods-Notes",
       "target": "/Number-Sets-Notes",
       "text": "Number Sets Notes"
@@ -6296,38 +7709,18 @@
     },
     {
       "source": "/",
-      "target": "/about",
-      "text": "Ed"
+      "target": "/Random-Notes",
+      "text": "Random Notes"
     },
     {
       "source": "/",
-      "target": "/04-03-2023-The-town-analogy",
-      "text": "the town"
-    },
-    {
-      "source": "/",
-      "target": "/Study-Group-Subjects",
-      "text": "study group"
-    },
-    {
-      "source": "/",
-      "target": "/20-12-2022-Website-Philosophy",
-      "text": "website philosophy"
-    },
-    {
-      "source": "/",
-      "target": "/Notes",
-      "text": "notes"
-    },
-    {
-      "source": "/",
-      "target": "/notablog",
-      "text": "writings"
+      "target": "/Writings",
+      "text": "Writings"
     },
     {
       "source": "/",
       "target": "/Notice-Board",
-      "text": "Notice Board"
+      "text": "the notice board"
     },
     {
       "source": "/",
@@ -6336,28 +7729,8 @@
     },
     {
       "source": "/",
-      "target": "/17-03-2023-Tuition-Reviews",
-      "text": "Here are some satisfied customers!"
-    },
-    {
-      "source": "/",
-      "target": "/AECHE-Topic-Notes",
-      "text": "Topic Notes"
-    },
-    {
-      "source": "/",
-      "target": "/AECHE-Class-Notes",
-      "text": "Class Notes"
-    },
-    {
-      "source": "/",
-      "target": "/AECHE-Published-Notes",
-      "text": "Published Notes"
-    },
-    {
-      "source": "/",
-      "target": "/Electron-Configuration",
-      "text": "Electron Configuration"
+      "target": "/ATCHE-Notes",
+      "text": "yr 12 chem notes"
     },
     {
       "source": "/",
@@ -6367,12 +7740,87 @@
     {
       "source": "/",
       "target": "/Pranav-and-Co",
-      "text": "Pranav and Co"
+      "text": "My computer background"
     },
     {
       "source": "/",
-      "target": "/07-04-2023-An-random-collation-of-quotes",
-      "text": "an random collation of quotes"
+      "target": "/penguins",
+      "text": "penguins."
+    },
+    {
+      "source": "/",
+      "target": "/old-index",
+      "text": "old index page"
+    },
+    {
+      "source": "/",
+      "target": "/Yr-10-Methods-Notes",
+      "text": "Methods Notes"
+    },
+    {
+      "source": "/",
+      "target": "/10Econ-Notes",
+      "text": "10Econ Notes"
+    },
+    {
+      "source": "/",
+      "target": "/10TCS-Notes",
+      "text": "10TCS Notes"
+    },
+    {
+      "source": "/",
+      "target": "/10SCI-Notes",
+      "text": "10SCI Notes"
+    },
+    {
+      "source": "/",
+      "target": "/10ENG-Notes",
+      "text": "10ENG Notes"
+    },
+    {
+      "source": "/",
+      "target": "/10LIT-Notes",
+      "text": "10LIT Notes"
+    },
+    {
+      "source": "/",
+      "target": "/10CSL-Notes",
+      "text": "10CSL Notes"
+    },
+    {
+      "source": "/",
+      "target": "/AECHE-Notes",
+      "text": "AECHE Notes"
+    },
+    {
+      "source": "/",
+      "target": "/AECSL-Notes",
+      "text": "AECSL Notes"
+    },
+    {
+      "source": "/",
+      "target": "/AELIT-Notes",
+      "text": "AELIT Notes"
+    },
+    {
+      "source": "/",
+      "target": "/AEMET-Notes",
+      "text": "AEMET Notes"
+    },
+    {
+      "source": "/",
+      "target": "/AEPHY-Notes",
+      "text": "AEPHY Notes"
+    },
+    {
+      "source": "/",
+      "target": "/AESPE-Notes",
+      "text": "AESPE Notes"
+    },
+    {
+      "source": "/",
+      "target": "/ATCHE-Notes",
+      "text": "ATCHE Notes"
     },
     {
       "source": "/about",
@@ -6400,254 +7848,89 @@
       "text": "this"
     },
     {
-      "source": "/notablog",
-      "target": "/Linux-Github-Saga",
-      "text": "Linux Github Saga"
+      "source": "/old-index",
+      "target": "/about",
+      "text": "Ed"
     },
     {
-      "source": "/notablog",
-      "target": "/Chemistry-Resources-review",
-      "text": "Chemistry Textbook review"
+      "source": "/old-index",
+      "target": "/04-03-2023-the-town-analogy",
+      "text": "the town"
     },
     {
-      "source": "/notablog",
-      "target": "/27-11-2022-Sleep-is-not-as-important",
-      "text": "27-11-2022 Sleep is not as important"
+      "source": "/old-index",
+      "target": "/Study-Group-Subjects",
+      "text": "study group"
     },
     {
-      "source": "/notablog",
+      "source": "/old-index",
       "target": "/20-12-2022-Website-Philosophy",
-      "text": "20-12-2022 Website Philosophy"
+      "text": "website philosophy"
     },
     {
-      "source": "/notablog",
-      "target": "/23-12-2022-The-Holiday-Goals",
-      "text": "23-12-2022 The Holiday Goals"
+      "source": "/old-index",
+      "target": "/Random-Notes",
+      "text": "notes"
     },
     {
-      "source": "/notablog",
-      "target": "/11-01-2023-WHY-DOES-HECS-EXIST",
-      "text": "11-01-2023 WHY DOES HECS EXIST"
+      "source": "/old-index",
+      "target": "/Writings",
+      "text": "Writings"
     },
     {
-      "source": "/notablog",
-      "target": "/05-02-2023-Fonts",
-      "text": "05-02-2023 Fonts"
+      "source": "/old-index",
+      "target": "/Notice-Board",
+      "text": "Notice Board"
     },
     {
-      "source": "/notablog",
-      "target": "/23-02-2023-The-v-3-saga",
-      "text": "23-02-2023 The v 3 saga"
+      "source": "/old-index",
+      "target": "/Development-Status",
+      "text": "development status"
     },
     {
-      "source": "/notablog",
-      "target": "/24-02-2023-An-angrily-written-response-to-spicatas-claims-about-my-css",
-      "text": "24-02-2023 An angrily written response to spicatas claims about my css"
-    },
-    {
-      "source": "/notablog",
-      "target": "/25-02-2023-How-to-make-a-note-taking-website-WITHOUT-PAYING",
-      "text": "25-02-2023 How to make a note-taking website WITHOUT PAYING"
-    },
-    {
-      "source": "/notablog",
-      "target": "/28-02-2023-A-response-to-spicatas-claims-on-tutors",
-      "text": "28-02-2023 A response to spicatas claims on tutors"
-    },
-    {
-      "source": "/notablog",
-      "target": "/04-03-2023-The-town-analogy",
-      "text": "04-03-2023 The town analogy"
-    },
-    {
-      "source": "/notablog",
-      "target": "/07-03-2023-Website-Structure",
-      "text": "07-03-2023 Website Structure"
-    },
-    {
-      "source": "/notablog",
-      "target": "/10-03-2023-Tuition-Philosophy",
-      "text": "10-03-2023 Tuition Philosophy"
-    },
-    {
-      "source": "/notablog",
-      "target": "/13-03-2023-Addressing-the-Allegations",
-      "text": "13-03-2023 Addressing the Allegations"
-    },
-    {
-      "source": "/notablog",
-      "target": "/13-03-2023-Freds-Eyes",
-      "text": "13-03-2023 Fred's Eyes"
-    },
-    {
-      "source": "/notablog",
-      "target": "/14-03-2023-A-little-challenge",
-      "text": "14-03-2023 A little challenge"
-    },
-    {
-      "source": "/notablog",
-      "target": "/15-03-2023-Call-to-Action",
-      "text": "15-03-2023 Call to Action"
-    },
-    {
-      "source": "/notablog",
-      "target": "/15-03-2023-Theme-List",
-      "text": "15-03-2023 Theme List"
-    },
-    {
-      "source": "/notablog",
+      "source": "/old-index",
       "target": "/17-03-2023-Tuition-Reviews",
-      "text": "17-03-2023 Tuition Reviews"
+      "text": "Here are some satisfied customers!"
     },
     {
-      "source": "/notablog",
-      "target": "/26-03-2023-The-Town-Bank",
-      "text": "26-03-2023 The Town Bank"
+      "source": "/old-index",
+      "target": "/AECHE-Topic-Notes",
+      "text": "Topic Notes"
     },
     {
-      "source": "/notablog",
-      "target": "/28-03-2023-general-advice-for-things-based-on-my-website",
-      "text": "28-03-2023 general advice for things based on my website"
+      "source": "/old-index",
+      "target": "/AECHE-Class-Notes",
+      "text": "Class Notes"
     },
     {
-      "source": "/notablog",
-      "target": "/Templates-List",
-      "text": "Templates List"
+      "source": "/old-index",
+      "target": "/AECHE-Published-Notes",
+      "text": "Published Notes"
     },
     {
-      "source": "/notablog",
-      "target": "/31-03-2023-The-Fred-Tendency-Hypothesis-FTH",
-      "text": "31-03-2023 The Fred Tendency Hypothesis (FTH)"
+      "source": "/old-index",
+      "target": "/Electron-Configuration",
+      "text": "Electron Configuration"
     },
     {
-      "source": "/notablog",
-      "target": "/31-03-2023-Holiday-Goals-v-2",
-      "text": "31-03-2023 Holiday Goals v 2"
+      "source": "/old-index",
+      "target": "/R-AECHE-32",
+      "text": "R-AECHE-32"
     },
     {
-      "source": "/notablog",
-      "target": "/09-04-2023-A-change-in-course",
-      "text": "09-04-2023 A change in course"
+      "source": "/old-index",
+      "target": "/Pranav-and-Co",
+      "text": "Pranav and Co"
     },
     {
-      "source": "/notablog",
-      "target": "/10-04-2023-Stasis",
-      "text": "10-04-2023 Stasis"
+      "source": "/old-index",
+      "target": "/07-04-2023-An-random-collation-of-quotes",
+      "text": "an random collation of quotes"
     },
     {
-      "source": "/notablog",
-      "target": "/11-04-2023-A-manifesto",
-      "text": "11-04-2023 A manifesto"
-    },
-    {
-      "source": "/notablog",
-      "target": "/14-04-2023-A-test",
-      "text": "14-04-2023 A test"
-    },
-    {
-      "source": "/notablog",
-      "target": "/16-04-2023-A-hopefully-complete-guide-on-learning-chemistry-well",
-      "text": "16-04-2023 A (hopefully) complete guide on learning chemistry well"
-    },
-    {
-      "source": "/notablog",
-      "target": "/05-05-2023-A-theory-on-a-logarithmic-relationship-between-effort-and-grades",
-      "text": "05-05-2023 A theory on a logarithmic relationship between effort and grades"
-    },
-    {
-      "source": "/notablog",
-      "target": "/05-05-2023-Why-did-I-name-the-writings-null",
-      "text": "05-05-2023 Why did I name the writings null"
-    },
-    {
-      "source": "/notablog",
-      "target": "/07-05-2023-Some-thoughts-on-the-state-of-the-town",
-      "text": "07-05-2023 Some thoughts on the state of the town"
-    },
-    {
-      "source": "/notablog",
-      "target": "/08-05-2023-A-narrative-haha-its-a-j-and-h-reference",
-      "text": "08-05-2023 A narrative (haha its a j and h reference)"
-    },
-    {
-      "source": "/notablog",
-      "target": "/12-05-2023-A-dialogue-of-epic-proportions",
-      "text": "12-05-2023 A dialogue of epic proportions"
-    },
-    {
-      "source": "/notablog",
-      "target": "/16-05-2023-My-struggle-with-fixing-the-graph",
-      "text": "16-05-2023 My struggle with fixing the graph"
-    },
-    {
-      "source": "/notablog",
-      "target": "/21-05-2023-Competency-in-a-democracy",
-      "text": "21-05-2023 Competency in a democracy"
-    },
-    {
-      "source": "/notablog",
-      "target": "/13-03-2023-WOODSIDE",
-      "text": "13-03-2023 WOODSIDE"
-    },
-    {
-      "source": "/notablog",
-      "target": "/18-03-2023-Dutch-Democracy",
-      "text": "18-03-2023 Dutch Democracy"
-    },
-    {
-      "source": "/notablog",
-      "target": "/23-03-2023-In-response-to-a-certain-spicata-quote",
-      "text": "23-03-2023 In response to a certain spicata quote"
-    },
-    {
-      "source": "/notablog",
-      "target": "/23-03-2023-In-response-to-the-other-spicata-quotes",
-      "text": "23-03-2023 In response to the other spicata quotes"
-    },
-    {
-      "source": "/notablog",
-      "target": "/23-03-2023-In-response-to-allegations-from-chris-chen-choe",
-      "text": "23-03-2023 In response to allegations from chris chen choe"
-    },
-    {
-      "source": "/notablog",
-      "target": "/02-02-2023-Some-thoughts-on-working-better",
-      "text": "02-02-2023 Some thoughts on working better"
-    },
-    {
-      "source": "/notablog",
-      "target": "/18-02-2023-The-Legend-of-0-point-38mm",
-      "text": "18-02-2023 The Legend of 0 point 38mm"
-    },
-    {
-      "source": "/notablog",
-      "target": "/23-02-2023-The-Chemical-Blacklist",
-      "text": "23-02-2023 The Chemical Blacklist"
-    },
-    {
-      "source": "/notablog",
-      "target": "/27-04-2023-The-Obby-experience",
-      "text": "27-04-2023 The Obby experience"
-    },
-    {
-      "source": "/notablog",
-      "target": "/Set-List",
-      "text": "Set List"
-    },
-    {
-      "source": "/notablog",
-      "target": "/03-03-2023-A-letter-to-myself",
-      "text": "03-03-2023 A letter to myself"
-    },
-    {
-      "source": "/notablog",
-      "target": "/Piano-Pieces",
-      "text": "Piano Pieces"
-    },
-    {
-      "source": "/notablog",
-      "target": "/Idea-List",
-      "text": "Idea List"
+      "source": "/old-index",
+      "target": "/penguins",
+      "text": "penguins."
     },
     {
       "source": "/theme-test-page",

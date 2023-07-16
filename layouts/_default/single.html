@@ -4,7 +4,6 @@
 
 <body>
 {{partial "search.html" .}}
-{{partial "sidebar.html" .}}
 <div class="wrap">
 <div class="singlePage">
     <!-- Begin actual content -->
@@ -12,7 +11,7 @@
     <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
       <p class="meta">
-        {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
+        {{ i18n "date" }} {{ partial "date-fmt.html" .}} 
           {{ partial "github.html" . }}
       </p>
       <ul class="tags">

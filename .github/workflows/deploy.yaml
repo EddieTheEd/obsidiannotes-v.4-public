@@ -1,9 +1,9 @@
-name: Deploy
+name: Deploy to Master Branch
 
 on:
   push:
     branches:
-      - main
+      - hugo
 
 jobs:
   deploy:
@@ -29,11 +29,11 @@ jobs:
 
       - name: Build
         run: hugo --minify 
-
+      
       - name: Github Deploy to Master branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: master  # deploying branch
-          cname: obsidiannotes-v-4-public.pages.dev
+          cname: obsidiannotes-v-4.pages.dev

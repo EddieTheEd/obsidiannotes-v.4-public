@@ -11,14 +11,10 @@
   <meta property="og:title" content="{{ .Title }}">
   <meta property="og:description" content="{{if .IsHome}}{{$data.description | default $.Site.Data.config.description}}{{else}}{{.Summary}}{{end}}">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="{{.Site.BaseURL}}icon.jpeg">
-  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:image" content="{{.Site.BaseURL}}assets/icon.png">
+  <meta property="og:url" content="{{.Site.BaseURL}}">
   <meta property="og:width" content="200">
   <meta property="og:height" content="200">
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="{{ .Title }}" />
-  <meta name="twitter:description" content="{{if .IsHome}}{{$data.description | default $.Site.Data.config.description}}{{else}}{{.Summary}}{{end}}" />
-  <meta name="twitter:image" content="{{.Site.BaseURL}}icon.jpeg">
   {{ range $data.links }}
     {{ if strings.Contains .link "twitter.com" }}
       {{ $twitter_handle := index (split .link "/") (sub (len (split .link "/")) 1) }}
@@ -39,9 +35,11 @@
   {{ $favicon | safeHTML }}
   {{ else }}
   {{ range $favicon }}
-  <link rel="{{.rel}}" {{if .type}}type="{{.type}}"{{end}} {{if .sizes}}sizes="{{.sizes}}"{{end}} href="https://edsobsidiannotes.netlify.app/000_Files/icon.png" />
+  <link rel="{{.rel}}" {{if .type}}type="{{.type}}"{{end}} {{if .sizes}}sizes="{{.sizes}}"{{end}} href="https://ed.toomwn.xyz/assets/icon.png"/> <!--for some reason baseurl does not give the... base url (from config.toml)-->
   {{- end }}
   {{ end }}
+
+  {{ template "_internal/google_analytics.html" . }}
 
   <!-- CSS Stylesheets and Fonts -->
   {{$sass := resources.Match "styles/[!_]*.scss" }}
@@ -61,23 +59,31 @@
   <link href="{{$lightSyntax.Permalink}}" rel="stylesheet" id="theme-link">
 
    <!-- Base scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/@floating-ui/core@1.2.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@floating-ui/dom@1.2.1"></script>
   {{$scripts := (slice "js/darkmode.js" "js/util.js")}}
   {{range $scripts}}
   {{$scriptname := .}}
   {{ $s := resources.Get $scriptname | resources.ExecuteAsTemplate $scriptname . | resources.Fingerprint "md5" | resources.Minify }}
   <script src="{{$s.Permalink}}"></script>
   {{end}}
+
   {{partial "katex.html" .}}
+  
+  {{partial "mathjax.html" .}} <!--thanks to kory33 from https://github.com/jackyzha0/quartz/issues/212-->
+
 
   {{partial "mermaid.html" .}}
 
   {{partial "customtheme.html" .}}
+  <script>
 
-  <script src="https://cdn.jsdelivr.net/npm/@floating-ui/core@1.2.1"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@floating-ui/dom@1.2.1"></script>
+  </script>
+
+
   {{ $popover := resources.Get "js/popover.js" | resources.Fingerprint "md5" |
   resources.Minify }}
-  <script async src="{{$popover.Permalink}}"></script>
+  <script src="{{$popover.Permalink}}"></script>
 
   <!-- Optional scripts -->
   {{ if $data.enableCodeBlockTitle | default $.Site.Data.config.enableCallouts }}
@@ -100,6 +106,31 @@
   "md5" | resources.Minify | }} {{$contentIndex := resources.Get
   "indices/contentIndex.json" | resources.Fingerprint "md5" | resources.Minify
   }}
+
+  {{if $data.enableSPA | default $.Site.Data.config.enableSPA}}
+  {{ $router := resources.Get "js/router.js" | resources.Fingerprint "md5" |
+  resources.Minify }}
+  <script type="module">
+    import { attachSPARouting } from "{{$router.Permalink}}"
+    attachSPARouting(init, render)
+  </script>
+  {{else}}
+  <script>
+    window.Million = {
+      navigate: (url) => (window.location.href = url),
+      prefetch: () => {},
+    }
+
+    window.addEventListener("DOMContentLoaded", () => {
+      init()
+      render()
+    })
+  </script>
+  {{end}}
+  
+  {{ $trimmedURL := trim (index (split .Site.BaseURL "://") 1) "/" }}
+  <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+
   <script>
     const SEARCH_ENABLED = {{.Site.Data.config.search.enableSemanticSearch}}
     const LATEX_ENABLED = {{.Site.Data.config.enableLatex}}
@@ -236,28 +267,4 @@
       {{end}}
     };
   </script>
-  {{if $data.enableSPA | default $.Site.Data.config.enableSPA}}
-  {{ $router := resources.Get "js/router.js" | resources.Fingerprint "md5" |
-  resources.Minify }}
-  <script type="module">
-    import { attachSPARouting } from "{{$router.Permalink}}"
-    attachSPARouting(init, render)
-  </script>
-  {{else}}
-  <script>
-    window.Million = {
-      navigate: (url) => (window.location.href = url),
-      prefetch: () => {},
-    }
-
-    window.addEventListener("DOMContentLoaded", () => {
-      init()
-      render()
-    })
-  </script>
-  {{end}}
-  
-  {{ $trimmedURL := trim (index (split .Site.BaseURL "://") 1) "/" }}
-  <script defer data-domain="{{$trimmedURL}}" src="https://plausible.oliverfalvai.xyz/js/script.js"></script>
-  <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
 </head>
