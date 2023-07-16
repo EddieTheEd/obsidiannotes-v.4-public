@@ -3,7 +3,7 @@ name: Deploy to Master Branch
 on:
   push:
     branches:
-      - hugo
+      - main
 
 jobs:
   deploy:
