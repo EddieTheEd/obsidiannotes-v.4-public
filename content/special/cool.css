@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+:root {
+    --font-body: 'Quicksand', sans-serif;
+    --font-header: 'Montserrat', sans-serif;
+    --font-mono: "Noto Sans Mono", monospace;
+}
+
+html {
+    background-color: #0F1116;
+}
+
+h1, h2{
+    color: #2F459C;
+    font-family: var(--font-header);
+    text-align: center;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+p, li {
+    color: #fbfffe;
+    font-family: var(--font-body);
+    padding: 10px;
+    margin-top: 0;
+}
+
+i {
+    color: #fbfffe;
+    font-family: var(--font-body);
+}
+
+#letter {
+    display: block;
+    text-align: center;
+    max-width: 65%;
+    margin: auto;
+    border: #525257da 3px solid;
+    border-radius: 20px;
+    
+}
+
+li {
+    color: #ffc634;
+    padding-top: 0;
+    font-weight: 600;
+}
+
+strong {
+    color: #ffc634;
+}
+
+a {
+    color: #2F459C;
+    text-decoration: none;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+#ciao {
+    color: #525257da;
+}
+
+#signature {
+    color: #2F459C;
+    font-weight: 600;
+    font-size: 25spx;
+    text-align: left;
+    padding-left: 10%;
+}
