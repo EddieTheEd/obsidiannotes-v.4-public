@@ -1,22 +1,33 @@
+<!--This is the temporary index file while I make my own version of Quartz.-->
 <!DOCTYPE html>
-<html lang="{{ .Lang }}">
-{{ partial "head.html" . }}
+<html lang="en">
+<head>
+    <link rel="preload" href="./special/cool.css" as="style">
+    <link rel="stylesheet" href="./special/cool.css"/>
 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ed.toomwn.xyz...?</title>
+</head>
+<header>
+    <h1>Goodbye for now!</h1>
+</header>
 <body>
-{{partial "search.html" .}}
-<div class="wrap">
-<div class="singlePage">
-    <!-- Begin actual content -->
-    {{partial "header.html" .}}
-    <article>
-        {{partial "toc.html" .}}
-        {{partial "textprocessing.html" . }}
-        {{if $.Site.Data.config.enableRecentNotes}}
-          {{partial "recent.html" . }}
-        {{end}}
-    </article>
-    {{partial "footerIndex.html" .}}
-</div>
-</div>
+    
+    <div id="letter">
+        <br>
+        <i>
+            A stepping stone towards greater things.
+        </i>
+        <p>Hello! This is what I hope will be a brief notice to inform you that I will be taking down "Ed's Obsidian Notes" for the foreseeable future. Here's a summary of what will happen.</p>
+        <div id="summary">
+            <li>"https://ed.toomwn.xyz/ is now a placeholder, hosting this page and also the <a href="https://ed.toomwn.xyz/Goodbye">Goodbye</a> page.</li>
+            <li>All the code for the final product of "obsidiannotes-v-4" will be made public on the <a href="https://github.com/EddieTheEd/obsidiannotes-v.4-public">public repository</a>.</li>
+            <li>Once me and Ossac have finished work on <a href="https://github.com/EddieTheEd/Blaze">Blaze</a>, our homemade Quartz alternative, I will re-upload "Ed's Obsidian Notes", presumably under a different name.</li>
+        </div>
+        <p>I know this seems a little rash. Why don't I just keep the website up so people can access my notes and stuff? Well to be honest, I've kinda grown to dislike my website. I think its great how Quartz enables people to make their own static sites, but I think I've outgrown it. So many thanks to <a href="https://jzhao.xyz/">Jacky Zhao</a> for inspiring me to embark on this journey. Hopefully I'll see you again, with a fully functioning website, very soon!</p>
+        <p id="signature">- Ed :)</p>
+        
+    </div>
 </body>
 </html>
