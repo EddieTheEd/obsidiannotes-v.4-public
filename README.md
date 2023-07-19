@@ -1,9 +1,2 @@
-# obsidiannotes-v.4
-SYNC FORK
-
-end me
-
-
-among sug
-
-jesus chrsit
+# obsidiannotes-v.4-public
+a repository containing my edits for Quartz 3.3
